@@ -1,0 +1,149 @@
+Tabelas
+
+CREATE TABLE Genres (
+    genre_id INTEGER PRIMARY KEY,
+    name TEXT,
+    description TEXT
+);
+
+CREATE TABLE Developers (
+    developer_id INTEGER PRIMARY KEY,
+    name TEXT
+);
+
+CREATE TABLE GamePlatforms (
+    game_id INTEGER,
+    platform_id INTEGER,
+    FOREIGN KEY (game_id) REFERENCES Games(game_id),
+    FOREIGN KEY (platform_id) REFERENCES Platforms(platform_id)
+);
+
+CREATE TABLE GameGenres (
+    game_id INTEGER,
+    genre_id INTEGER,
+    FOREIGN KEY (game_id) REFERENCES Games(game_id),
+    FOREIGN KEY (genre_id) REFERENCES Genres(genre_id)
+);
+
+CREATE TABLE Images (
+    image_id INTEGER PRIMARY KEY,
+    game_id INTEGER,
+    image_url TEXT,
+    FOREIGN KEY (game_id) REFERENCES Games(game_id)
+);
+
+
+// Use DBML to define your database structure
+// Docs: https://dbml.dbdiagram.io/docs
+
+Table regions {
+      region_ID varchar
+      region_Name varchar
+}
+
+Table systems {
+      system_ID integer
+      system_Name varchar
+      system_ShortName varchar
+      system_HeaderSizeBytes integer
+      system_Hashless integer
+      system_Header integer
+      system_Serial varchar
+      system_OEID varchar
+}
+
+Table releases {
+      release_ID integer
+      rom_ID integer
+      release_ReferenceImageURL varchar
+      release_ReferenceURL varchar
+      release_Date varchar
+      release_Genre varchar
+      release_Publisher varchar
+      release_Developer varchar
+      release_Description varchar
+      release_CoverDisc varchar
+      release_CoverCart varchar
+      release_CoverBack varchar
+      release_CoverFront varchar
+      TEMP_systemName varchar
+      TEMP_system_ShortName varchar
+      TEMP_regionLocalizedName varchar
+      region_LocalizedID integer
+      release_TitleName varchar
+}
+
+Table roms {
+      rom_ID integer
+      system_ID integer
+      region_ID integer
+      rom_HashCRC varchar
+      rom_HashMD5 varchar
+      rom_HashSHA1 varchar
+      rom_Size varchar
+      rom_FileName varchar
+      rom_ExtensionlessFileName varchar
+      rom_Parent varchar
+      rom_Serial varchar
+      rom_Header varchar
+      rom_Language varchar
+      TEMP_rom_Region varchar
+      rom_DumpSource varchar
+}
+
+// Ref name_optional: schema1.table1.column1 < schema2.table2.column2
+
+Ref : regions.region_ID > roms.region_ID
+Ref : systems.system_ID > roms.system_ID
+Ref : releases.rom_ID > roms.rom_ID
+
+
+
+
+O script deve acessar o diretorio roms_raw/ e analizar todos os arquivos nos sub-diretorios e coletar as seguintes informações: 
+- nome do arquivo
+- tamanho
+- crc
+- md5
+- sha1
+
+
+
+
+name
+description
+released
+genres.name
+developers.name
+
+
+gameID --> integer
+gameNome --> varchar
+gameDescricao --> varchar
+gameLançamento --> varchar
+gameGenero --> varchar
+gameDesenvolvedores --> varchar
+gameScreenshot1 --> varchar
+
+
+
+$host="164.152.51.71";
+$port=3306;
+$socket="";
+$user="root";
+$password="";
+$dbname="teste_db";
+
+$con = new mysqli($host, $user, $password, $dbname, $port, $socket)
+	or die ('Could not connect to the database server' . mysqli_connect_error());
+
+//$con->close();
+
+
+
+10.170.0.179
+
+
+git remote set-url git@github.com:valdecircarvalho/retrogamesite.git
+
+git@github.com:valdecircarvalho/retrogamesite.git

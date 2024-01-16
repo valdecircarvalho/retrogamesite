@@ -1,0 +1,579 @@
+Nome Completo do Arquivo, Nome do Jogo, Tamanho, CRC, MD5, SHA1
+3-D Genesis (USA) (Proto).zip, 3-D Genesis, 5662, 4B7E402F, 2f49d12a08afec65a75324a25bfd2c39, 0760f6c239ecc427b5adcfa102c7a5c75b04fab9
+3-D Ghost Attack (USA) (Proto).zip, 3-D Ghost Attack, 7834, 0AD5DA55, 57df0c124e9c0ca7c8ec73b23a9564f7, 4c833bb23c960b29fe90693564dc2c35fd641880
+3-D Havoc (USA) (Proto).zip, 3-D Havoc, 4498, DC58CD04, ad66823d819b00d5e1fd64f3d77cd482, 119deb6f0bef7f2f112fb09c6f1d9706772db9b3
+3-D Tic-Tac-Toe (USA).zip, 3-D Tic-Tac-Toe, 1752, 5A1E4379, 0b83f7f3ae5525e9a4ba087ced9e1bc2, 0038b7bd232106ac0705f1ec726f772cd561238b
+3-D Zapper (USA) (Proto) (1982-12-15).zip, 3-D Zapper, 2131, B9C97CA1, 2a16f91e98adafeff513329c5cd083dc, e3043c165142c8d56e56b3dbd4f31ff6ca9826e3
+32 in 1 Game Cartridge (Europe).zip, 32 in 1 Game Cartridge, 47174, 7EB230C0, 909d8000fb15a48b1676bba779b72316, 66d519cc3cd20a86c9b9b20a4456701f72634768
+4 Game in One (Europe) (Bit Corporation).zip, 4 Game in One, 3188, FAFAEEA0, 0ea71a546d8d3197f1b24f4afcbe0fe6, 0d3ad058e791afa3a16b4043f921d9388cd4c3a5
+Acid Drop (Europe).zip, Acid Drop, 4331, 6DC58202, d1b88cb5de9a95f31c0f0697c6896e38, 52d0c3c74a922956403340d43248439aadd990f3
+Actionauts (USA) (Proto) (1984-06-22).zip, Actionauts, 3259, 25FEB5C0, c828d3ae038242ce38a779be9ead9445, c6c4001c6aaec29e4538744d5701b2113c859db8
+Activision Decathlon, The (USA).zip, Activision Decathlon, The, 6358, 7F330A8A, 07be74c462c90a3c794936270dd53e8f, 4ee0bf1eebfe900cfe053791105f0aa32cdd4e92
+Adventure (USA).zip, Adventure, 3179, 990B41BC, 3e103e11def462929a9767894008081f, 1e8c74048da3d5e05f594a69e5757f836cd836ec
+Adventures of TRON (USA).zip, Adventures of TRON, 3164, 8D20799A, 90efcc0e7a9b54b366aeba977b9669e7, a8522357cf40bc10b314f3453e4dd341a8fa3df9
+Air Raid (USA).zip, Air Raid, 2987, 7D72A704, e8ba803b4111b4980520e2411d4f400d, a8e62a578610b255b9701a19d7d7b7f218895296
+Air Raiders (USA).zip, Air Raiders, 3305, 12337668, 040e74951e2e38c13d37177f2ec7d99f, 251e2ded552c017a74e5af8126007df994e16b9b
+Air-Sea Battle ~ Target Fun (Japan, USA).zip, Air-Sea Battle ~ Target Fun, 1906, ED22DD32, 51f6fe1c3d6c43469e135f7c3196792e, da2da40e1a53d5ca0fc723da30a0bb5c2bb79b1c
+Airlock (USA).zip, Airlock, 2749, EFA6BFDE, 3a0e51617d5aded405400d2ca5ac3b76, f2ef0e7e83b7b1c15010ba3e570dafa5ed7b9ae8
+Alien (USA).zip, Alien, 3498, 9436FF15, 6d6e3e7b188ce16e5bde874a7782994a, 5a01c6adf7a1f12833e73acb0c51e03a47494112
+Aliens Return (Europe).zip, Aliens Return, 3229, 745544D9, 05d8cb5416f998e6b0eb73d15333c47e, 7846ec0f56d31a1e3eebfcbf0ed2d51a22ca9efa
+Alligator People (USA) (Proto).zip, Alligator People, 2980, 10BAAB13, 69f07295dd950b08f54ca6e0a125f01d, 056b198129d94718f131cea2a0b559fef941290b
+Alpha Beam with Ernie (Japan, USA).zip, Alpha Beam with Ernie, 5924, E98F5115, c089d0e660bd5446a69b72d59954102c, a9653dfadad8e25250b5b3652d6bfb4b7ce96515
+Amidar (USA).zip, Amidar, 2984, 165ACC47, c6f0d5d463ebce53819b8d150c7e7792, f9c1f7790ea96c2e68c570162c9c475fd27a556f
+AndroMan on the Moon (USA) (Proto).zip, AndroMan on the Moon, 4951, 723C8DEF, d68829e9800966c42bddf7c36ff9f5fd, 23c44d3c2eb237e734579df07313c53f41f7143c
+Aquaventure (USA) (Proto) (1983-08-12).zip, Aquaventure, 5424, C455056F, 02b7e9afb34d59c9ad97da9505fe7743, 6ab5477edd528c5727c474c866d399d0135d7a92
+Armor Ambush (USA).zip, Armor Ambush, 2919, 2199B51D, 0cecd447214484ead14181f20a53e2e0, 289d33042d7dc97f732b18d44491622dcb8612c1
+Artillery Duel (USA).zip, Artillery Duel, 4998, EBF0160D, 79d5d562254719b819bf15b90c14e411, 1ea0b1d62d93ecf1186f11f7d9d17704b96a8989
+Assault (USA).zip, Assault, 3153, 79902AA5, 38e5798467ff7b181638a52caf13e125, e3cedf02a00ffcf98701092c1d2a7d0a912b2189
+Asteroids (Japan, USA).zip, Asteroids, 5573, 2A1088AA, 01336ec31189ef1eb50a2ddbc366086b, b35a67f4183d835346e2961c344759c128bf1cb2
+Astroblast (USA) (v1.1).zip, Astroblast, 2918, 6820A168, dde7a86759dbc5d41081ddda95f5f4e6, dff0ca167a71cf93ecbb1ac82026630ea80bea3c
+Atlantis (USA).zip, Atlantis, 3198, 5639856A, 63634129b7cd78a5bd929e61aec86ebf, 5015af237d734bffd3a4f5eddcbfd1df32f9d4b6
+Atlantis II (USA).zip, Atlantis II, 3164, F1E8398C, 1e625a4307d6d2b7ec1985624680c400, 2a09bf6feda07c156d192d9dc43244ae87413eb6
+Atom Smasher (USA) (Proto).zip, Atom Smasher, 5420, 998BD15D, 97e981a71ea6edd71d614fe88583e799, 92e9939362862bd9bce99e34a3e33de94ef34a77
+BASIC Programming (USA).zip, BASIC Programming, 3160, 3ADC7537, 12bfc6fdf6f8ffaf2aa82b47650d624a, 4bbc060aa80ea0b96112eb742cd008053bf95994
+BMX Air Master (USA).zip, BMX Air Master, 9985, F3F827D0, e082354ac6d0d983dca04ee6ca7bed2e, 1237bd7ce80e14067806c9da978fe8bcb0db94bc
+Bachelor Party (USA).zip, Bachelor Party, 2365, CE1F18F2, dc7d4d484989c2d398d7e5bba7176010, 4b28edb4473252793fe653b12493fa64d19f107b
+Bachelorette Party (USA).zip, Bachelorette Party, 2396, DEDC1374, a401db64c5f1cecdf59c18da54fae0b0, cc78f56490cec8671f8e080f7366c844f0a79028
+Backgammon (USA).zip, Backgammon, 3373, ADA4B0B4, 30b7f9926f259ae479531db9672c8657, 216b4e6fcf81a2b790bb76eae2fa206691b876de
+Bank Heist (USA).zip, Bank Heist, 3157, B30B8D34, 9702f982d1d5bf4e326f3d5d6adeb4a2, 51cdbd1ef6c6348621690d1bac202be725c56742
+Barnstorming (USA).zip, Barnstorming, 2898, D3DD7DA0, 3c308bd7b2b8843b11a92efdda7202b0, 6f7dc018c0e411eff21d61ac911843c9dc9f16d6
+Base Attack (Europe).zip, Base Attack, 3231, 46612985, 4cced4425d2133dbf80a36bfd8326f97, a64a3e71c95ea6bd4a910cf58040aaebe299414a
+Basic Math (USA).zip, Basic Math, 1848, 718305A5, e01200b315bc581ed8b6936f27dcd6a3, b4fcbc6d8b379ec78de3a61f091d594e04086ac9
+Basketball (USA).zip, Basketball, 1884, 341CCD31, 20939f9a7e015ebc316fc71324235116, a17411eb7817525e9238df18cc2e6660d51cbc04
+Battlezone (Japan, USA).zip, Battlezone, 5890, BCAFE565, 7106b7f168a9661292b7144f5c42e43b, 9014bc3cf22d9c5d1861b37cb3dc29ab07b6cee2
+Beamrider (USA).zip, Beamrider, 6240, C8B2B880, a74892ac10c7915ab0400770a73427ba, c2d22b8237466c95fd384ac4a1c7947bdd5ea016
+Beany Bopper (USA).zip, Beany Bopper, 2918, A25A5E9B, 63cbcfd6389541dfe63054a3a4286219, 7457a64d62f95cc89c13a80b2a7799b361ae5ce4
+Beat'Em & Eat'Em (USA).zip, Beat'Em & Eat'Em, 2753, 4B951060, 3b32380b669a9d654a7526be202f70ba, 33435a85b653480c398c218ef3d6b7804728efdd
+Berenstain Bears (USA).zip, Berenstain Bears, 5321, BB4141A3, e60d6754da3053885a266dbee3f3eaf5, 6dd70f50e6b39651f8c31c57812a3962c1084b30
+Bermuda Triangle (USA).zip, Bermuda Triangle, 3336, 184CAFFE, ea85149fb757d687aa1a702dd812787c, aa7433a637e5e1fd197bd9cbffd9bf4ca10aafba
+Berzerk (Japan, USA).zip, Berzerk, 2942, B61FA075, a36fccff1f29d5bf99b1e8025110e479, 02ad4f096c0ccf77040f17160490b87bd36cc45f
+Big Bird's Egg Catch (Japan, USA).zip, Big Bird's Egg Catch, 5833, DC91AFD1, feed9192784162df33d449b404c8e9d5, a61b406f0c6f866fe2171d2e33cae34a95400a6c
+Bionic Breakthrough (USA) (Proto).zip, Bionic Breakthrough, 5118, CEC57E70, 2afef213d847d43430cf9dfe2e6440e4, 69ed6265ae670aa5e3fff24b542be17446d0b4ad
+Black Jack (USA).zip, Black Jack, 1881, B1C21E12, 974e93f95076866dc0edd013da327039, 5efae1999799f643f3dcddfca53dc9fa2e31ef2d
+Blueprint (USA).zip, Blueprint, 5236, 304FC918, ad4a8c62e006b89b31b6a2fa6f4b99cb, a7ae2c38f4a8d30beb10313d4ab02314d5de620e
+Bobby is Going Home (USA).zip, Bobby is Going Home, 3217, DF12381D, c61e7d8aec1202352260162b6968bf6b, 43811acaed72bdb04d4b3ddbb924d4c55905e36a
+Boggle (USA) (Proto) (1978-08-07).zip, Boggle, 1687, F2C2551C, f43a5d58a0836ebdba8bb4eb0b5e0699, 87d8839e12284ea7f324324a92f5b78cab59ede9
+Boing! (USA).zip, Boing!, 3198, 631855CC, 011e1426e0f39fb772995187f486eb45, 72424c5d08514d322ff57ea024223d872acd3ec7
+Bouncin' Baby Bunnies (USA) (Proto).zip, Bouncin' Baby Bunnies, 3125, 7F70D046, d6c95426fcdb7c8a15fa94204bb353e1, 945e58aae2c0dd3966692232f9f33f32bc95f3ec
+Bowling (USA).zip, Bowling, 1824, 607BD334, 493a31905de32fdb6738010311db2aba, 82f43b9bdc353ca3ab3997960efdd8e8a32e1f09
+Boxing (USA).zip, Boxing, 1915, 00F9389E, ecb616650e8092ca299e3b208ca5b419, ca01fc257e92bd4c549e526321e502e7a33a9834
+Brain Games (USA).zip, Brain Games, 1862, 8681616F, 00807fc0c64f9aec632a40e1d1397d55, dd6cfb55fb66b20f0bff08c49ab8b2116f2c0fee
+Breakout ~ Breakaway IV (Japan, USA).zip, Breakout ~ Breakaway IV, 1927, 88BCF143, 100fa01a123332f2ae58035029f01496, b026d17de79df4f9198fadcf2c2fb7323baca1ec
+Bridge (USA) (v1.1).zip, Bridge, 3529, FBBDDC1A, d6076d8bda61f83dbe6a007d3d582cc1, 209caca9433b209c0e593065027a6a2867c18964
+Buck Rogers - Planet of Zoom (USA).zip, Buck Rogers - Planet of Zoom, 5366, 1BC120F1, 7630fae769c7c290438c9b8eff520b5b, 60e70a32d6eea84a0b18ea2f4b4b061f3d424bbe
+Bugs (USA).zip, Bugs, 2548, B83123B7, 43dea0bb03170f9c6a6f8390d6f47f09, 8c585dfdd00ac2345b7f6aead2821926daead096
+Bugs Bunny (USA) (Proto 2).zip, Bugs Bunny, 5351, A6282F9C, 03973ab80be62c4c3fc65a1217880249, 02f3cb12cb96921f4c33ae52e8f5fffed468cee1
+Bump 'n' Jump (USA).zip, Bump 'n' Jump, 5201, CC108682, a71d3caa1eb147452174b8ba8bc36d21, 3308963ead704010baa0adacb8ea80523e0f0b1b
+Bumper Bash (USA).zip, Bumper Bash, 3127, 7971D059, 1360c910dc4d01f8054eeabb6cf91006, 7a9ec8265420c6407bf4fb5d7578f6f993fd23d8
+BurgerTime (USA).zip, BurgerTime, 6774, 0DCA9EB8, c8615b659325a9f953c70c30073e428c, 7c57c218fbbfd59bc58717966064d9b82689bb85
+Burning Desire (USA).zip, Burning Desire, 3256, A91F99EE, 926fe001ae364638813bddb1a56463cb, c9940d29326a7906957025bcff9ac6045be3d9e9
+Cabbage Patch Kids - Adventures in the Park (USA) (Proto) (1984-09-13).zip, Cabbage Patch Kids - Adventures in the Park, 5971, 4399FFA6, 835a6d5709221d135fb63bb555d69900, bb8aa1c12cbc9e1f22b9916a95a5600c38da5ae1
+Cakewalk (USA).zip, Cakewalk, 3191, 1855A310, 9f24e8f3347929b79c6ac593fe342c6a, 2894706b7a1273c2612bb38d0606d1aedf1bd123
+California Games (USA).zip, California Games, 11910, ED308A5E, 19340ffc67dbe512410d6fc618f038bc, 47d5f217041ac15e3963f8d3d974404ac55b4c45
+Canyon Bomber (USA).zip, Canyon Bomber, 1835, A27B48EA, fcea8b73a07ba20597379078abba6e0c, 90ad12a44347574dbc0982dd9f6c5c3e2f95e109
+Care Bears (USA) (Proto).zip, Care Bears, 3169, 4DB41543, 82821ed73d4da4890588f9783649cfc9, 6dc692428ab319790e26761a91c41fc557d6134e
+Carnival (USA).zip, Carnival, 3383, 3F9FF668, f434b5400ac01bf2a5b2a54d345b71be, 61e15f32f1d53b8615ad2479d182d55ab69247d8
+Casino ~ Poker Plus (USA).zip, Casino ~ Poker Plus, 3503, B15A5FAC, c89d6cf00d45f0ffaddc9fe1edf1e69c, 34c796b89e139021839bdfa48fdccc15f778370c
+Cat Trax (USA).zip, Cat Trax, 2935, 64A03DD9, 9b249e857ac61dedbb0b3d51e8f14b21, 9585fad7e91c2a04b8d51a3bdd40862fecc7ed82
+Cathouse Blues (USA).zip, Cathouse Blues, 3036, 05AEE735, 06ad73224391e9ab03a3e095f544c5d9, feccbc661a721b1bf652428c607bdc1bfac72e4b
+Centipede (Japan, USA).zip, Centipede, 5201, 54FE898F, de2c28eb6a561ac2f5d218849798b955, c6db39dd1c45504ab51a6c45c608feae88778b76
+Challenge (Canada).zip, Challenge, 3209, A171AF7E, f138d9026976391dd6df4dc57b5580cb, 1d5ebc6ea9ed3bfbf3619b43880bd655e8e3d619
+Challenge of.... NEXAR, The (USA).zip, Challenge of, 2860, B34FA48E, 7354d5d7a3898521179b07bae2841057, a0e48b1bd433479cc12dcff736ab0b2a5b805cae
+Championship Soccer ~ Soccer (USA).zip, Championship Soccer ~ Soccer, 3450, 55BC545A, 9af71349273145be4b0b54a658dbdab5, 23951895019b14471b43a9d38ae0db3b140ff9ea
+Chase the Chuck Wagon (USA).zip, Chase the Chuck Wagon, 2809, C524FC95, 706646711f63babf0c9039cab3955b06, 2d7cb8f3b530473da3c6eae5488675ca7dfd6b9e
+Checkers (USA).zip, Checkers, 1826, 5ADF4F93, 9ed9142588963893ba78803a00378b53, d74137c1aa92b65ef91b42be3271aee51f980de1
+China Syndrome (USA).zip, China Syndrome, 3013, E434F44E, a2617ce7e19b3d229724e0a571909fa1, e1ebd5dd4df0cb5b8b84c1c6b89f556d97bd2d5a
+Chopper Command (USA).zip, Chopper Command, 3644, EBB948D4, d02beb486fdd53e9418c2cfc2873be48, 2d45f7d43f44fb54203474fc5c5120b68d4cdcf6
+Chuck Norris Superkicks (USA).zip, Chuck Norris Superkicks, 5389, 53726E98, 4a60eb18c502d3322d34d461b666b6e1, eca3eeacfde9d3eece220c1ca72ad872b39ee7a6
+Circus Atari (Japan, USA).zip, Circus Atari, 2549, 7314716D, 8be5df16d1a4477c48f6a7bea1f15a0c, 2c826a441ffefdd461bc56e3459d71f40ff02118
+Coco Nuts (USA).zip, Coco Nuts, 2995, 04A057F4, c1611fa928cacb54479e90e82f135176, 84353d03dfc79ad86c09174d585ce1a7e6390ed3
+Codebreaker (USA).zip, Codebreaker, 1793, 037428EB, 2826faed8c961e4ab59ed8a86c4cded7, d60e9fa274d92c5b10f9ceb61fa0784ee9585e5a
+Color Bar Generator (USA).zip, Color Bar Generator, 2729, 447C0B6B, 1265abed5206ee4ea3cf0b76240bc1ba, 5d7011155524365c5150e34c5f8e2d48aa72d547
+Colors (Europe) (Proto).zip, Colors, 396, D9CAE33F, 29c126c98b256ee9e5f12a79a8fa130a, 603f3b7556b0bab85dd7e31b8df05f6e5296e33d
+Combat Two (USA) (Proto).zip, Combat Two, 4418, F067775C, b1476de4f233390d95c80adaab5264d1, b3595bbbec22065c14e8227991b75d5b1a13257c
+Combat ~ Tank-Plus (USA).zip, Combat ~ Tank-Plus, 1941, 68E74F69, 9506a5bf9a03a6531fb43dd098539167, 501bfe1e49094f27a6b1911b74227fd83d024218
+Commando (USA).zip, Commando, 5961, 69EA46DD, a089f419e265fe41cdf130a20fd0dd9e, 31fbb69d79de90d8c9f611c6e949bca41f4e29a5
+Commando Raid (USA).zip, Commando Raid, 3205, 4927C98E, d3f4c4f174a587a24c85de83ba3ed44d, a130d8c8f04c1f4feac61dca400c8cd9458fb3bd
+Communist Mutants from Space (USA).zip, Communist Mutants from Space, 4993, B9A555CC, 4e40a3644b2ee99f6a8f1912651bb971, 0085a836d4b6b8740623f7ea97fcf4d4392a19be
+Computer Chess (USA) (Proto).zip, Computer Chess, 3285, 2B3D9306, 4b3c482dae911785f1a1f63aff75e788, 7260730b7e90a909dcdf3b76eadfd1707cb7339f
+Condor Attack (USA).zip, Condor Attack, 3083, 013ACEA8, 5e0d66eaa953d44a3520fd54339d6931, d19d7cd34708c6901aa55a0f91ba2b89405e33b5
+Confrontation (USA) (Proto).zip, Confrontation, 3177, 2F7E6BA8, 1c54156fe9282fb597e55e4260d66e2e, aa573d4808f45d883ee3683e8c136cc7d0442553
+Congo Bongo (USA).zip, Congo Bongo, 6058, 710E117C, 2a889471bac6ec350b794757ba38386b, 4802810ea03adc96e84ebc03f040d8ecf58e12f1
+Cookie Monster Munch (USA).zip, Cookie Monster Munch, 5515, 7276ED80, d17c94e52e94680aff04a3697613ddf9, e09ce84d912da9cc305d2f6dc53fcda598c63c3d
+Cosmic Ark (USA).zip, Cosmic Ark, 3304, 6E9586F2, e9bfed22b1b636b65ebc75a7d2cf53e2, 06f80757040fb3003216aff89fdc7d4bbfa5a806
+Cosmic Commuter (USA).zip, Cosmic Commuter, 3448, 00363716, fe61f17e4e97183bf036aa748616bdc8, 447eddba27a3bfca526e2cd3a969c7b47c5cf4a8
+Cosmic Creeps (USA).zip, Cosmic Creeps, 2964, 71A559CB, 8c9cdb4ee4300f51b650de91cd6cec36, e05953f1e1b7490e40d369f41356c854f208425a
+Cosmic Swarm (USA).zip, Cosmic Swarm, 1856, 3B8B0C1E, a5ba2bea305687c4bd9828d272088d6f, 4a264188f37548e3a03cc3ee4eabc6de7a3ddd77
+Crack'ed (USA) (Proto).zip, Crack'ed, 7903, 93304199, 86eee88fe9a0ace413e6b9873dee4f9e, 3fdebfbc8f8f212cdec2964d6dfcd4b5e086b5f2
+Crackpots (USA).zip, Crackpots, 3378, BC31EBA7, e3bc7ddcdda386da290a9197e4a0f8b9, b0296187ee1b5659de9a2abe0a12baba813c2d69
+Crash Dive (USA).zip, Crash Dive, 3507, 6B666F4A, 550eecc9df7948ece569e7bab44f7f5e, 54e6ce1cc93f04c943d60c8c47239d10e8327119
+Crazy Climber (USA).zip, Crazy Climber, 5690, E8D3C201, df896a03a5c214cb7621a529325121f3, 3378efaf0ee99c5bb74d597f57ad5fa20866b77b
+Cross Force (USA).zip, Cross Force, 3231, 528F262E, 831b294d4067cd66c451a270e5fd257e, 5f3cacfe864484c9311bbfe344a8f87e36835978
+Crossbow (USA).zip, Crossbow, 11053, F7266E55, 3d165149e284856c1b5bb1c7a0c103ef, 8752b87f6852cb0fdd38db19f9f5673e341112b9
+Crypts of Chaos (USA).zip, Crypts of Chaos, 3370, D49EC4F7, 1c1027f14093ff7a57f37702d3c7e7f9, 2c226e6ce839c4cbfb41f42990f8038d6119b704
+Crystal Castles (USA).zip, Crystal Castles, 9326, 316CF1E4, f68205b8c82ad7c099769e0384c03b09, 73ee60bc43de8a2649f51de5959adb4c497adfdc
+Cubicolor (USA) (Proto).zip, Cubicolor, 3213, 9FE4A693, 8f11d27c9ec085df4dbabcc9f5c11244, 55a73193c62e3beb1234f3a42e8af4ae88d12457
+Custer's Revenge (USA).zip, Custer's Revenge, 2566, 1901FF1E, 59a91c85385874f03eaa52022b00fe38, 7fc3c245cbdeb8a2c1709681b8490816465db53c
+Dancing Plate (USA).zip, Dancing Plate, 3087, 7E81C105, 69bb2acf5e3a7fd69adab24fa64249d3, 450afb0be9fcec8a9a6b24a1f4b31b91ccb4a05b
+Dark Cavern (USA).zip, Dark Cavern, 3350, 296F1137, 023188eee6092b979f0ad4374c9eece9, 8faa78202304fc920fc5541027c4f6560e535f9c
+Dark Chambers (USA).zip, Dark Chambers, 9320, 945DFD9C, 40c24132646ca87b7cafd2f6d230987f, fd08015186b8c56b6a935c506b0d558f6fded2e8
+Deadly Duck (USA).zip, Deadly Duck, 2818, 436B035F, a82fcce2e916ba37c5c92f065aadb310, 22068371f33349650c539485c9b316f6e2d1ca69
+Death Trap (USA).zip, Death Trap, 3224, 004A6274, f1e9ce045f33bc7cdf53159657de06c2, 5c23150d3c822fea6fe4fb0a449b66e8ae0f640f
+Defender (USA).zip, Defender, 3459, E4206E8C, 1b16395a7c74abb76e732c2d7ae76d93, 66d9b497b2820b94eb6b1b8f3d045fc93db92fb7
+Demolition Herby (USA).zip, Demolition Herby, 3182, 7701207D, 0290a02e38aa6c7e6a7950fee6772feb, 22168bccd5b3ef4c1e6ec7d3dc0c13f7a6f33a50
+Demon Attack (USA) (Rev 1).zip, Demon Attack, 3523, 22A0BDC0, 9a67891e2a0eceef9d1675d214f2fa0c, 025a36634cd4edca55fb6b2d724ed5eb4db73639
+Demons to Diamonds (USA).zip, Demons to Diamonds, 2879, 14923DC2, 05c8daf71b3e03b50cbba7c9b97095e8, 129e8413a03c7b374313e691cbb8dac49b72de2c
+Depth Charge (USA) (Proto).zip, Depth Charge, 2641, F94C382F, 810f4ae1cf706c1b8bc89e50a0155b33, b3264a454610e53e05e45150d01e1006b6f0f13b
+Desert Falcon (USA).zip, Desert Falcon, 10480, 02EE22DD, 9ca0ec82fbd9a96d7787fc0bf4f18938, f0f2dcb3330a7d898bd0c8730735ce2cfc344afa
+Dice Puzzle (USA).zip, Dice Puzzle, 3042, ACD9CC82, f89d4332249d1035e07647bcd3d1e18c, 23396ed01d2d99904c395b05f29760b0b287172f
+Dig Dug (USA).zip, Dig Dug, 10275, 2F7BF62C, 4821701b9dcaa5d05ceee28dd0831c15, 3e433630d05ac3618ffc769f1f603df1ef55445b
+Dishaster (USA).zip, Dishaster, 2659, 45A5831B, 5c3a9d07b90088af39a5ab60f39eb418, 0d9d523f0956314852f5b16404a9366b37e046f5
+Dodge 'Em ~ Dodger Cars (USA).zip, Dodge 'Em ~ Dodger Cars, 2687, 7FE431FF, 3222df5369eeb217bcae77045ea67996, 87c08b8edbd27cb719dd25ce3d58c8768637cce5
+Dolphin (USA).zip, Dolphin, 3311, 5A15B380, 991b636b82aed286c5717936ebded8a7, 3822025e06d33510ea20e0708d02f9d2f30054ab
+Donald Duck's Speedboat (USA) (Proto).zip, Donald Duck's Speedboat, 4030, 4388B277, 492d07f45192b8c769ab5446ce0fb927, 8ac009f267b7349d3d2116ad2eba3cdf6efb15a7
+Donkey Kong (USA).zip, Donkey Kong, 2963, 47E2DB55, 16345cb82dcea790fd6f894361ad3ac3, d50f8d034bf243f50230c800137318033246e21b
+Donkey Kong Junior (USA).zip, Donkey Kong Junior, 4930, 85F117B4, a3f65209312e52a2203555c3d5962d2c, 4381f3714f4252df249eb8994f4d5783da1be389
+Double Dragon (USA).zip, Double Dragon, 10344, E7F2E24E, 2cc2010cbc2eb8bb252634124324e280, 8759074fcdba3f1803edee57db49da7b39762f34
+Double Dunk (USA).zip, Double Dunk, 10720, 8EC70115, 55dc5a210a912e3f7725138a4d66fd65, 8953d2f5c6f51e197cd958f6b9255dce039b30a5
+Dragon Defender (Europe).zip, Dragon Defender, 3103, CF8614CA, 62bc08fa910354d9871ded987c59f4e3, 1abc64c54c413e97da5c063188096ba3987a7492
+Dragonfire (USA).zip, Dragonfire, 3310, EF2DDC83, 95af3ed28a516f954ccce52f426de7e9, 83151ab649f0c47046dd67ecba25e62f5bf4af86
+Dragonstomper (USA).zip, Dragonstomper, 12310, 91796A26, 9e6be4a4bfd814d36ed347f6f898d322, fda9be917e1e0e98b206f32ba7f6deaa5a5f54e1
+Dragster (USA).zip, Dragster, 1784, EF128AED, 0c64dd78c5175c90884ecaae4f18d92c, 05339d77a98957914aa4584e598af3adc801bf9e
+Dukes of Hazzard (USA).zip, Dukes of Hazzard, 7761, 79A9759F, 7f0463b4930c43199e8e702013e3aaa9, 6891c119ba9078a4da6f10338d51a243fa7a4e26
+Dumbo's Flying Circus (USA) (Proto).zip, Dumbo's Flying Circus, 5996, 4530A43F, 8fbb072322892eb2da74489ca1ab451e, 6613406e72e9153e068c13b7527b04e5e5bbb95a
+Dune (USA) (Proto).zip, Dune, 2454, 610F3D8C, ca0dea2096320d3fe4c7728d4e195586, cc623e54184f601d8ec64dd9c3366efb11baea99
+E.T. - The Extra-Terrestrial (USA).zip, E, 6110, D73E47D0, f9617292548a7eca16c05e20cc00b0ea, 0d3a24ef3f377f7e8f45451ad21ba4da43585221
+Earth Dies Screaming, The (USA).zip, Earth Dies Screaming, The, 3161, 6767685E, 990d0b0fd2d1e8fabd552c33dca98204, 40f540e27acee50d6c11c435c02b7a46325573b4
+Eggomania (USA).zip, Eggomania, 2997, 4BAF76B8, 3d494ca00c600a58080d41801cb2f73e, f564914b9bf84059c659ec3b06cce25e91dff86a
+Elevator Action (USA) (Proto).zip, Elevator Action, 4545, FA60D139, 2f1c832930c8899fe883e50eac17c479, 215e743c9585900af4a855de24a22c89ee21228e
+Elf Adventure (USA) (Proto).zip, Elf Adventure, 3037, BCBBFC69, bd7e226eb7ffba4ce465f753331efcf9, cfc2183a011fb0a18d422491e2c45a485abe05da
+Eli's Ladder (USA).zip, Eli's Ladder, 2891, 0941633E, bff4c2bd370f23904fafae636db565b8, b26779d839a3a3d91725d03231f9637e307d453e
+Elk Attack (USA) (Proto).zip, Elk Attack, 5094, 822CE545, f8516c8560bbd681b34e55ecbee5ba04, a76fd773bd4dd399d99d227002611bd9aaa2fb71
+Encounter at L-5 (USA).zip, Encounter at L-5, 3039, A6943B55, ee465f56907615a4f2db921291a8f342, c7814188eeae678190bf1b2b20acdea712470f60
+Enduro (USA).zip, Enduro, 3357, 12CB0F04, b27fd8d98e1c038d2debc1c5303c51d4, a61db4140837219c7a0b80a9c9701df4186c378e
+Entity, The (USA) (Proto).zip, Entity, The, 3430, F42DE7E5, 5c842dba6ee4b698842caf2ffbed33d0, 47f35dd38094646fdbc9711218d404212aa074f0
+Entombed (USA).zip, Entombed, 2867, CCDA2298, 014d506c54e78747ed05532d9ea4ddd7, df8bfd2b7b91161ae6650e8849a65ae0044559c9
+Escape from the Mindmaster (USA).zip, Escape from the Mindmaster, 11112, 5FFEB183, 1c2ef34d90e37c7e7f51ec872001e14c, f16f9ec5238143347ca4bed04f4b29aca1fd7382
+Espial (USA).zip, Espial, 4623, 3AFCC17E, 92ab6dd774fd38e0fb7f966035593e91, 6f8b70e43e8b6f9a9458c10d3c8293292c9080f5
+Extra Terrestrials (USA).zip, Extra Terrestrials, 2090, 394F26CE, de7c0d3c176f2df8cecb3beb929b26ea, be8a58083b0e8dab9374fbbc71d53c51aeda8f61
+Fantastic Voyage (USA).zip, Fantastic Voyage, 3022, 1A1379CD, 1e89d8b70b17f8b6477c78da24b36409, da8c03095875dca2a4ec4a2aba94c5820342a7bb
+Farmyard Fun (USA).zip, Farmyard Fun, 3284, 7E77B426, 71945e67c88ff644fa4ea4695071b0bd, a5564eb4523b6dee3a5ebcb9d744ec7051847adf
+Fast Eddie (USA).zip, Fast Eddie, 2907, AFA2CD6B, a004839047eeecae9f56f28045e02cc1, b093fe8322c1cce72da9b380bc65deb5c9a69298
+Fast Food (USA).zip, Fast Food, 2878, 5FE6C8DF, c40aa7a8a41bec2f285bf0e95d43218b, 5f529e786da5b062d8f2955dad4af03a20aa563d
+Fatal Run (USA).zip, Fatal Run, 15115, E36BB2FD, c8743db0160fb926e121d294215075c0, 6d4b42cfd05a8ac6ba396261ac63fdb7fa427a48
+Fathom (USA).zip, Fathom, 5878, 067D5257, b4e9877966395563aa487907de93cef3, d2e98c062d0e29b7156f54b8831293b56e3a2938
+Final Approach (USA).zip, Final Approach, 3151, C6C57CB0, aba7ef587336a94dcb115bf973de854e, 6f2d4a1f5c21e0d34322f96c98e6e12bd0cc13a7
+Fire Fighter (USA).zip, Fire Fighter, 3206, 80925C38, d2df84fd08ea81478869c466d54b2a79, d3e97f03673be3e5b895fc2c0a69d65c40006ba8
+Fire Fly (USA).zip, Fire Fly, 2971, F397C893, e1f058df418cf0cf78ed489ab8785abe, 50c059255f9665c8aed08f4a89d2afb57837acf3
+Fire Spinner (USA).zip, Fire Spinner, 3131, 250D8CED, 496c6026abc1482c0aeb04e7d5afde4a, b8706a973169fd139876c19ed7da25ac6ca6ff5b
+Fireball (USA).zip, Fireball, 4471, 1F1AC931, 3d0051e93ca23b53a92ee4b5ecfc83c3, 74c5d02f9efa85f85127380a72bc40fcee3c6bb5
+Fishing Derby (USA).zip, Fishing Derby, 1852, 14CC1541, f467579a9308acbfc74417fd3fd7a15a, e9b095343080886242d32cb73537941f1dbf0c21
+Flag Capture ~ Capture (USA).zip, Flag Capture ~ Capture, 1798, 6A672B1C, 5289334f036aa7d9e344f9531e6de616, bbaca83422f7326c7a27e0ffe603f63198277947
+Flash Gordon (USA).zip, Flash Gordon, 3023, F2A812BA, 85eec4b93d817cab65cfe06b6a382a3b, 7ead4114c8e93bed692281facac2a18d2d8924b7
+Football (USA).zip, Football, 1944, 65F61ACE, f5dc69b13f5cebb1b3eb39929e775966, 95c00f33cb82437235ef9bbb41fe7ef6018d0d96
+Forest (Europe).zip, Forest, 3128, 5422BCA1, b0e94eed40612b272ebc56965c5473b2, da14e53da0804759de09e0188a167bf7f47aeccd
+Frankenstein's Monster (USA).zip, Frankenstein's Monster, 3293, 4BC986E3, a2eed51629d1e22a3b69e1adbece63b1, fd838f73f9b6ca285dfcc8e00ca177494c707864
+Freeway (USA).zip, Freeway, 1709, 68EB1B5E, 0331ff564519807e79a61fb258cf1fe3, 96a9bf6a99232f30167c6e0ed662a929f451b64d
+Frisco (USA).zip, Frisco, 3355, EF436377, 52bca6b732aff3f9ba016d095b588fb6, 78c21f524fb634ea1afa294491bc0274a6623b6c
+Frog Demo (Europe).zip, Frog Demo, 955, EBC91FB4, b50c30a4fe224e093a04e72c4db8f418, f104fadc78f9baf39d17f3f1b70b3eaa4eebc437
+Frog Pond (USA) (Proto).zip, Frog Pond, 4465, 4056D6BB, 002272a68195a672f2aee6b9cea78a10, c73d10172cfb9dedc695ff54afb210dbe9133a43
+Frogger (USA).zip, Frogger, 3375, A4BA85C0, a819fe2c3edd190e784c082dd1d8342b, 127dc83cfcaed884e2b7146fad141b3f3035dea7
+Frogger II - Threeedeep! (USA).zip, Frogger II - Threeedeep!, 6129, 7FAA7885, 89ac25e717dc62404a9d9cd2e71a638d, 27b32a4ddf9c939367bdf124b3736473a9e4f006
+Frogs and Flies (USA).zip, Frogs and Flies, 2789, F109FD31, 2aa93b318a1deb2a3bd465ab969909e1, a41d1c567c353ddbcfc8508aae91d4907ef8bff4
+Front Line (USA).zip, Front Line, 5969, 15BBD7BB, eb28f53a89d32075e89978140dd2ccd6, e3674985c67fb94cddd4333049a9e91f722ffb7e
+Frostbite (USA).zip, Frostbite, 3275, 978F4C69, 57f93e53eed85da2a780676c6bdb82b3, 233c8e3c183f43c70de35c6ba46f568208b0bdba
+Funky Fish (USA) (Proto).zip, Funky Fish, 4117, BA1A97FB, 28ade2e4ec997e2413d02d54d4f7bb89, 5158a2b98a4cc0fc487e4e2e47f66b3f7be3ba5d
+G.I. Joe - Cobra Strike (USA).zip, G, 3280, 27B71B1A, a2405e834dd19252ae331b745cd6a19a, 11688af3f25d5ac92adc304e931f8e56a84e9640
+Galaxian (USA).zip, Galaxian, 5564, 22D3938A, 7d0aa6c4eec2d590d8cd8409c7032a23, 634e727b3d9a1d5fbda9bf851353dc38a9b71f1d
+Gamma-Attack (USA).zip, Gamma-Attack, 1841, E77F3915, 9ce6fffcec17da7a30a7ab93599ebf18, 5e28a19e9ff001dec659f756d0f3333926a8bfbe
+Gangster Alley (USA).zip, Gangster Alley, 3077, 32438653, e77ac87ec1020124421744fa9a6b9639, 6f3bcf5efee73deb7bcf2142a86c53adc344f69b
+Garfield (USA) (Proto).zip, Garfield, 4285, 37B6675D, 8277e0b798eefe7131eedae867b021da, 3c034e839e2b26a76f58adbf526825dd481e9444
+Gas Hog (USA).zip, Gas Hog, 3216, 698438FC, afcd23ca34929968dd3ee77df4d5c615, 06c319403bd41aa953190f9595e8a1f9eef62234
+Gauntlet (USA).zip, Gauntlet, 3105, FA947DB3, 9723dbdad900e91932e5bc2688d11040, 2bf9929f35ff5d84fa0675c12c08966da4525372
+Ghost Manor (USA).zip, Ghost Manor, 4543, 46A35B92, 5ead45f2cb0140d4a50be2effefa9035, 6c1d08496c389fa70afedb37a05ac12186728bab
+Ghostbusters (USA).zip, Ghostbusters, 6182, A6EE7A2F, 4814a60c2f6aa534dac3ad828f28d2a5, caad71ad32fed9577f58c7b24a2fe8c8bb2846e0
+Ghostbusters II (Europe).zip, Ghostbusters II, 7951, DF670433, 155ac8079adc89313a40cc10f76aa9bc, 536df09e2bb33b59871bc28ba68562dda93d9a82
+Gigolo (USA).zip, Gigolo, 3024, 3F5DC986, f98f09bc55734cfb5e1d8052f27e5a34, 9e484bf383e6cecdab6ee40ad023390e43b99bb2
+Glacier Patrol (USA).zip, Glacier Patrol, 2705, 47B5F72B, 82b7c4d23d46b5b48edcdf4e60ab68b1, 95a946ab226ee0ef83de2adbc286c4b42ece3e78
+Glib - Video Word Game (USA).zip, Glib - Video Word Game, 3255, EDA44AF1, b03f75ca1ef16663b9a928c36e92a67c, cb82d6022a9136ade738928925c886d2d3c9460d
+Going-Up (USA) (Proto).zip, Going-Up, 1320, A9F60ADB, fbffe803e12c320319e01d9ffa8098f4, bf21f4286efc6c96889b408aead43ea7f03f301d
+Golf (USA).zip, Golf, 1970, 7B249334, 3ca0765fbdcf581b00e015fe15e34c12, 26a3a4d9b852fc674704b82ba01eae11749da808
+Good Luck, Charlie Brown (USA) (Proto).zip, Good Luck, Charlie Brown, 3178, 059B6FE9, 61436ceec416bb8c332a4677e4c1c64a, 4adffb793c34c8d3873614a20be75370b9077845
+Gopher (USA).zip, Gopher, 3180, C45D0F3F, 549e41784f00ec8eecebe889764567d4, a88b7930d969cbfc95940a91d4455cf871f2170a
+Gorf (USA).zip, Gorf, 3314, E322D98B, 63a19838ecb5e7801c42f66b18416828, f74f9477f2874aaefea09490d9ee83736c71acb9
+Grand Prix (USA).zip, Grand Prix, 2601, 5132E034, a75a51ac23b845465b998dddf14ff540, 4034021940c7b53e143b586dbffd6d75d8f97279
+Gravitar (USA).zip, Gravitar, 5396, 498CFAC2, 1e26140cc45aa64d97e11c01c48e4f3b, 55d8dc0322e9c2bf4c6bf4ba42f4f21bab46a3d7
+Great Escape (USA).zip, Great Escape, 3174, 361DFA90, a0b1c30e767073373bae6470552934a2, 934880faa9270cee2809342762f4c54f624ce894
+Gremlins (USA).zip, Gremlins, 5741, FA212757, 10c84f62471dcd80e37767f45e29369d, 67d0eacf4248b0f6e89df563891555bcd3d22cd3
+Grover's Music Maker (USA) (Proto).zip, Grover's Music Maker, 4723, BFCF3EB7, ad5e240f2234475a9d72fbece4e25e01, 45357dade2b78c57d7527156af94074ae441fc57
+Guardian (USA).zip, Guardian, 3217, 08D49DF6, 41d368e6dde258a4d8abd2310f820d4a, 4dd93dcf960135ed3b9bbec8c0bca6eb68054025
+Gyruss (USA).zip, Gyruss, 6120, 77E5E2D8, 78d2ed59ec7a3d97a711e11340adbfb3, c8e0f2bc2d14b094d2b404eaa10e4d32476b1f9d
+H.E.R.O. (USA).zip, H, 6246, 96DE9F7A, 47ff146b51107f7c983022e23d9c5bbe, 7ec775a8f11c148374cb4537ac4ce6027c970533
+Halloween (USA).zip, Halloween, 2969, 3B9A3B4D, 65ca8b148c6869ade7f9ebe6a9644c0c, f607bc7ff3fce5b6a60662ddb7acb76f7345dba0
+Hangman ~ Spelling (USA).zip, Hangman ~ Spelling, 3554, EAAF197E, abf596bd6ca7cf51c2ce0d05d7c450e8, e94f0864b2bb18c12059087f3b79ca8dade1ea50
+Hard-Head (USA) (Proto).zip, Hard-Head, 3413, F35D5A1E, 726637aef861e93ba6b890fbe134dfa2, 90458e3743029299e2c8a25fd2391ae7c03cc187
+Harem (USA) (Proto).zip, Harem, 3170, 39E11CA1, 8c2101a73ff33fa3a010f16f8b0dc39c, 1f0ee8bafe55490aa42ee4d0de4c4c5f13f0075c
+Haunted House (USA).zip, Haunted House, 3503, FD64870A, a83f9db3845027dd0a5a959efac8eca6, 63f735420b34d201a61da4a02b4d3ceb22b9515a
+Hole Hunter (USA).zip, Hole Hunter, 3212, DA16B987, 6950d0ae1df46f8f4718d6fc16a20920, 2f144c22f588994c556b95a2058c4789f603f083
+Holey Moley (USA) (Proto).zip, Holey Moley, 3711, 6FD2C4A9, b08b43853da2b01409d7826f414a7d8a, 35e39b2ac1397ae3064801a0753f262eab654f21
+Home Run ~ Baseball (USA).zip, Home Run ~ Baseball, 1903, 3310FDC6, 1fe21833d992bafa937aa9c5f6e2c8ea, 61c5cb33dad24e9e037754df959fa91c7549aa78
+Human Cannonball ~ Cannon Man (USA).zip, Human Cannonball ~ Cannon Man, 1988, EFA09EC4, 1b2e515dd4f2d814848aa1ef281b5ed2, 97d95c4bae93b71e474a40e5b8482dbe03d80d4d
+Hunt & Score ~ Memory Match (USA).zip, Hunt & Score ~ Memory Match, 1856, E4E5D6E2, 75d839fbae03641d015ecbd91faf3b27, f465b00e73801c2c620ebb65480b983f83a1489b
+I Want My Mommy (USA).zip, I Want My Mommy, 2767, DC04AF74, 14b233ab01a3b428e90302486c7522fd, 4b3d10c88033160ac4bdf6668bb10cc04fee05da
+I.Q. 180 (USA).zip, I, 2902, C09A841F, 02fb66faf21fc68861a9a4e076a288b8, 7d8ff38e50e1d9387c6379d397852d28b37a7d1b
+IQ 180 (USA).zip, IQ 180, 2901, 904FEAF8, 4bfb025d9deacdee3913711011141763, 4d94266695f8f2b6679a8b14cbc1fd6e09c3c7c2
+Ice Hockey (USA).zip, Ice Hockey, 3143, CE7736E5, d93da931cac8fd830bf32d3db7d167fe, 2374fbfe5e93dc2078629f02496bfff07f3b4b61
+Ikari Warriors (USA).zip, Ikari Warriors, 6742, 902013D3, 55c89ce65d239a44901b83b7967199b5, 0e6fe40fe9806f498bf7137fd5b0d9568c44a79c
+Immies & Aggies (USA) (Proto).zip, Immies & Aggies, 3317, 5BFA9FAE, e812fc6239f9df789c9dc4bf18b342fc, 08be2f36bb8a8bf054eea32327c8dc4f4bf86046
+Indy 500 ~ Race (USA).zip, Indy 500 ~ Race, 1852, 980A05CD, 684a85beafa91d11dbe3a3c0b1784c45, c2d81926a66fb187463c0bca5ae5159a2951e636
+Infiltrate (USA).zip, Infiltrate, 3010, 7308556F, c55f9812555dcbb225560042f73977b1, e89322d4c3da7d57be3eed3e835d9d20eff71df2
+International Soccer (USA).zip, International Soccer, 2929, 0EEB4D0D, 504a9a079a1ad3a197858e71e59f9a47, 66d85285bbb99495b1c897b4f5c4ff150a8a2b32
+Ixion (USA) (Proto).zip, Ixion, 5187, 0F5984D5, 6452c7bd7bd55818a95df9b7cea23ad5, 603b66d293f11305fb6f14238c5a2f3eff8024a8
+James Bond 007 (USA).zip, James Bond 007, 5972, 8E29E457, 1ad8a085526669b6935c753be53c7ac9, 9c53f4b17c69f74049677015b6c71f2747f9673f
+Jawbreaker (USA).zip, Jawbreaker, 3072, B094354E, 269c5f214d5a409c3215c25a020fe353, e25b5be05cbfb713494d5befcf3ffe59dd35fc2e
+Journey Escape (USA).zip, Journey Escape, 3370, 58723F20, 48cd7eefd82aa6c40d87612574632ece, 06fc6ecaee28acdc03b6b8542aa6bac1ded32b39
+Joust (USA).zip, Joust, 6056, 41AB0C46, de0952a4810113c1263c2f2611920e23, fbb640d194972444257c79cc21dee6104b0b4571
+Jr. Pac-Man (USA).zip, Jr, 9849, 5FC0B429, 087c129e5b5106a84d8eabe4bd596b13, 712df1f1a1bd835a2e540b611e270dd774b57d1e
+Jungle Fever ~ Knight on the Town (USA).zip, Jungle Fever ~ Knight on the Town, 3275, 238107E9, a47311394510e8416571275abfe1d5e3, cbf894581bcd6585cd9aefe4fcad7c5e9a228379
+Jungle Hunt (USA).zip, Jungle Hunt, 6207, 151F2453, 729d588eca9e5bf3516966eb9ffffdd3, f09946a7f2e6060d4d699ffaadd0d25bb74d28bd
+Kabobber (USA) (Proto).zip, Kabobber, 3470, FF27BF8F, 2a67436dffefc512d9c75b0a2d021e59, a767ac4aa0ed211b877b7be3879d298a1079a955
+Kaboom! (USA).zip, Kaboom!, 1753, 1CAD0E93, 07666cda7123df4bbce43a1e7f5e698b, f09faa73dd389052972f050f2ba9540a34667616
+Kamikaze Saucers (USA) (Proto).zip, Kamikaze Saucers, 2546, 42B3695E, 2e15d9d0d60c333c534679fa968d8687, 81b9710d82a2be4174d3bbd92fc363c8166212d2
+Kangaroo (USA).zip, Kangaroo, 5916, 4FC911F6, 2af28774f11036403eefc5d898df1695, 6b1ae2412f4213ddcf83916b9cbfd1447ef92e29
+Karate (USA).zip, Karate, 2913, 0A2A9470, a8345adee334524ea2ca4b8e760010d5, 1acfa28f0f7430bef47603f7529a5e3e6062944e
+Keystone Kapers (USA).zip, Keystone Kapers, 3478, 74A604B2, 5fcb85a5f97ed0580b53d9ce16a248ca, 737a6a6ab6a0204a0b13e6263f5dd3dd2d04b03e
+Killer Satellites (USA).zip, Killer Satellites, 4663, 7D0A87E2, 5fcc8e7b1b4458666411ef0f72f2f442, 78a3ae4c5e163d858034cdf50b7edac59fc1bf8f
+King Kong (USA).zip, King Kong, 2971, 11D0A75E, 3a06fa836071202e4d0a8c592a34ff6a, 7ff2b4dc8e0a715010c9f430fb54570c3989985e
+Klax (USA).zip, Klax, 9627, DCC40030, 6a64f6eee02163e4453110fd5b03378a, f60f36a1c28722a0d9e446a5523ada23a7e5c37a
+Kool-Aid Man (USA).zip, Kool-Aid Man, 3210, 340C4A93, bf6d223bfef1514f501614a7f99bbd84, ca9f885521038f414a271fdd31f589dd18226cce
+Krull (USA).zip, Krull, 6787, 17728DFF, 7343da3a3adea27dd3058ab19907aa67, 57973555cf072e2ea8eb05caaaa2f77c1163bb6c
+Kung-Fu Master (USA).zip, Kung-Fu Master, 6449, BA01898A, bc247da7c8192e5a9f57f226efa2c7ba, 3cf298063184b31182f9870c3bcb503f631f0d91
+Kyphus (USA) (Proto).zip, Kyphus, 2709, C48502C3, 5c93fee2e1574d28afd628e86cbc7171, 0b9b5d38179a5ac67b517c218796da53863f6f1d
+Lady In Wading (USA).zip, Lady In Wading, 2973, 69DAAA96, 30a0e96f4e16af83ef992066473d0b61, df4bfa9aa57744777b052a6dff35e2fff6de918c
+Laser Blast (USA).zip, Laser Blast, 1844, 519E9108, f0f09e7157cebec87f2643328e153765, 61f2eaf3803b77ab8e83ed0eb3fe284453816b6f
+Laser Gates (USA).zip, Laser Gates, 3470, 6E229FAF, 6d18ecb8a2efafed7d4b8d1ec1ba930d, 1315a90a07bca524e1d4c43c65110b905af12ef9
+Lasercade (USA) (Proto).zip, Lasercade, 3191, 78ACFE37, fd3a6c9ed0e3bc0a8790eb5ea85bf6c2, c61241393443dec49cf78028ed55332da6ef3766
+Lilly Adventure (USA).zip, Lilly Adventure, 3292, 02CCC62D, 8d72067fc10d3485a7c9341e1b809763, c4b8664c535cbe220cb36985ba862f32e08cfc48
+Lochjaw (USA).zip, Lochjaw, 2999, 9F4292EB, 469252064ba7cb920b1fc163d6874517, 572a0ec98b565009ebbaeb2928d1f87237fa5176
+Lock 'n' Chase (USA).zip, Lock 'n' Chase, 2919, 85F0D5FE, cec86d928186c0a3fb007378dec5fcff, d485955bd177bb488d77a8039ddbcc0adadb7d56
+London Blitz (USA).zip, London Blitz, 3273, 35F511FB, a26aaf79c839da8f14ad8f3b062dc2bb, 58789081c39e2db6ded0a0ee3a1a131fda3e1d6a
+Looping (USA) (Proto).zip, Looping, 6016, 5AB2DFE8, 63156838a9b5538b6005397f6c4c3256, c880154be8f176483d3239ff7eea66cfc5ac2d0d
+Lord of the Rings, The - Journey to Rivendell (USA) (Proto).zip, Lord of the Rings, The - Journey to Rivendell, 5977, 9674F47C, 32a79fd553f56c9e5df028412087dad6, fb640bb0d8fc9db502393987c2fa76107bb7fc97
+Lost Luggage (USA).zip, Lost Luggage, 2950, DFCBAAB2, 93a814d5f30b9454cf8b18b2db6ffd90, 8e0ab7e56005f577dccec964b81537a82564e38c
+M.A.D. (USA).zip, M, 3332, AC21F439, f783009f1465a80a5b2570972321212c, a8cd5ce09bbd823f863fdb5f6f8664f3c4f365a8
+M.A.S.H (USA).zip, M, 3508, 7ADED487, 106e2e5b3c24eb9f58dd383cdc3097e4, d3bd9a8db7617a11bebe2e347155c3a602d05cfc
+MagiCard (USA).zip, MagiCard, 1896, 56C56CEC, ed8b1c772e4a275764d8a6d62bbad18c, d8ae1faa5104228be0c46f02e8b18bc1562a4d8e
+Malagai (USA).zip, Malagai, 3280, 3000162C, f858a26d336fe958ebea4759e02c5d2e, 6305004d3c2edfc80b4b887dc429130b9cd1824f
+Mangia' (USA).zip, Mangia', 3143, BBA94A21, 86fca0e1f29a658497d2d7c8ee0e1823, 7fd7e26e79ac4fa84d9c31dcc5609b2387065698
+Marauder (USA).zip, Marauder, 3228, 936F24F7, ff259d1b1d2bb075d7559c3290afb6aa, 21c36f43674f734c9ed8971d035898687ea9e5e0
+Marine Wars (USA).zip, Marine Wars, 3592, 157C2506, 0a900f0d5e00d82d9e4e4dc82cf1f2e3, 216415966be414323947113282ca5b1b8939b6c4
+Mario Bros. (USA).zip, Mario Bros, 5233, AF81165E, 85d2ffcf7a14e4475ecfc69c1c4b0c2e, 9a3127a67cb2f0d4b1daa390dce4a832d9269d13
+Master Builder (USA).zip, Master Builder, 3251, CADCD60E, c866c0d3f3b52ab27a8f43fce15579a3, 512bf2b224bcc4991dd59339445683b800f37bb4
+Masters of the Universe - The Power of He-Man (USA).zip, Masters of the Universe - The Power of He-Man, 8786, 3A8DAFB4, 93d0a76c66ddd200dbadad451ca972a4, 21cfacedcd27f2fd0d3c4101bb385c512ac9a5bb
+Math Gran Prix (USA).zip, Math Gran Prix, 3148, 06CF4211, 242848c3ae151a8c6c0a2a4d5e8f319a, 9e7cb3ab3d011091af363caf916c31370e579d6c
+Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).zip, Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers, 3200, 66C8EBB4, 95d701e2837634c4fe9bbfa011b8dd13, e34e1fcda4b7c10ffd4d6a8cdb2292c2bb800290
+Mazy Match (USA) (Proto).zip, Mazy Match, 3321, 06CE6346, 7adad07e7a9366b2630bf03a108f243f, b3449fa361bfead4eae21d874ab4b127e4cb5627
+McDonald's - Golden Arches Adventure (USA) (Proto).zip, McDonald's - Golden Arches Adventure, 3493, 06E0A51F, c580207e16523431dd1499388c6461ad, 743abe362fad037ad0ef5891b3449bf6accc78af
+Mega Force (USA).zip, Mega Force, 3687, 38E4A089, 5b4cdc69d44fae1cdf774a20c5131863, ee948ee434cdf4eeed90a519bda0c087bb9fc66f
+MegaBoy (USA).zip, MegaBoy, 25085, 42AE5A66, ca8e8e876193808cf42f76a5288c8fb5, 398fe78993b8d64780b8ade959f0b5fed35887c3
+MegaMania - A Space Nightmare (USA).zip, MegaMania - A Space Nightmare, 3230, 47726385, 0b2ddb77ef3f2dd4b5e0c2416af1bb85, 2fd66904df099695c2eab6dbff3ffbe0f0026a20
+Meltdown (USA) (Proto).zip, Meltdown, 3279, FE905D84, e440db25854824e9b2bef1aa3e9a0dfd, f510d63c85549db1652db74e784ff54d9546df7a
+Midnight Magic (USA).zip, Midnight Magic, 8548, 031C0A6C, 63bf14fcb338a4b701f3285b6e5ca80c, c6df86b50b1ae1e96658bc06ca7b52aabd906be8
+Millipede (USA).zip, Millipede, 9280, 779C824A, 80616c0c75edbbc4838d9c1e1d5ceab3, d740db28486f9cf3f1fd666176c31571194296c0
+Mind Maze (USA).zip, Mind Maze, 2830, 82BEA6CD, 32e865e4c0ee84cc0b4e1befa34cfd08, df5a71b5dba0a86c608a01a9aac1cfaeeef5b044
+Miner 2049er - Starring Bounty Bob (USA).zip, Miner 2049er - Starring Bounty Bob, 5386, 5AE78280, 060224f3a1aa4d5ea949649127a70340, a87799841c0a18ba3dff17a3dadae108a8decba2
+Miner 2049er Volume II (USA).zip, Miner 2049er Volume II, 5881, FDAD6CAA, 76eaa251e6736945e97e740e45097706, 865886b2a50acf276b3c3787a3fb5501df3e1351
+Mines of Minos (USA).zip, Mines of Minos, 3411, 30943C36, 615cdc265b88bb48f3791c6e43e5044f, bf6e151512751af247caca5fb8f018a21102979d
+Miniature Golf ~ Arcade Golf (USA).zip, Miniature Golf ~ Arcade Golf, 1785, F746E44C, 3acc764e1b4d132bdf0294b3ecb7d0f1, 25b93204be9b4d6469b25dc1eea2df61f6a353b3
+Miss Piggy's Wedding (USA) (Proto).zip, Miss Piggy's Wedding, 2541, F4B368E4, 9077bdd858033eee4195aaaecf225472, f5026ab804e4668025ce763a455a57ae921a5c42
+Missile Command (USA).zip, Missile Command, 3440, F7E8B0D5, b829833159db2bc57970856c4c198c90, 05478994eb25fa648b1029495219800c6ea864e4
+Missile Control (Europe).zip, Missile Control, 3047, 46BDFD72, 9b3b003db15c0e6ff6e53e478acd39f2, 379c4603afc1afacf8a04331cc4cccb6ce38864c
+Missile War ~ Astro War (Europe).zip, Missile War ~ Astro War, 2696, 0629AB13, 6b0f715eb8a2e889de7c907fa3c59978, ab17f4407ab14eb033ac5eaf1eccaabe87f89fcf
+Mission 3,000 A.D. (USA).zip, Mission 3,000 A, 3145, 9EF41FB2, 7c1180c02988ef06806504cad93046ff, 88278fec5dd21b60adf47ac062cc19dacbecc2ba
+Mission Survive (Europe).zip, Mission Survive, 3003, 26876EDE, e998724673ef37b8c33162874037e440, c7e9a84c7a69cee25e802fd4ab605cbb807dc55f
+Mogul Maniac (USA).zip, Mogul Maniac, 3387, 96A8CBF9, 733c8e460359c0a1d09a03b38e71cdd6, 86585c312bf27746a28323a4a6b437c00f9032b3
+Monster Cise (USA) (Proto).zip, Monster Cise, 2256, CB50EA29, a1c80b2a4df876ce76944df0786e755a, a1df3ee62dc9155b69787c4345a0bf4f9aaea56b
+Montezuma's Revenge - Featuring Panama Joe (USA).zip, Montezuma's Revenge - Featuring Panama Joe, 5957, 5E5677D2, e27f3b4ecb7e04cab7b65366b1f671b1, 118b3c376d12f5cb982f1d36e19296f8d1713352
+Moon Patrol (USA).zip, Moon Patrol, 6207, B7A61257, f7b308c5453730550237132823bab107, 6457e774f89af34f7e4455fb5ec1afd6a602d255
+Moonsweeper (USA).zip, Moonsweeper, 6047, B8459710, 8bfbd24692d11e4716cd82d3a3983f7a, 14e8ea69ea65c6de13d7facf85ac8ca813ed84ed
+Morse Code Tutor (USA).zip, Morse Code Tutor, 1832, E0E7038F, 5198e7c8195956e51cb26c4fc110ce6d, 6440cf869fac72044009cb07b52deb8f1dcade87
+MotoRodeo (USA).zip, MotoRodeo, 7606, 79340174, e82102caa092085f3131e46f251f2cc9, 2e11f9fb823e9cacc6f912be773d2e7db18519b5
+Motocross (USA).zip, Motocross, 3117, C3E6D081, d0f155564e6101e99c655edbab0e2bf3, c0af1a2d6a46aea4336665049f79f080e1ea616c
+Motocross Racer (USA).zip, Motocross Racer, 5199, 3D745175, 55df7c0fb40873cf02c3794ce4f8ccb5, 704b3c62881cd1e053df52192a55557ec5b71a8a
+Mountain King (USA).zip, Mountain King, 6634, F33BD495, 3801c17a2d45ced53cdf6c2f622e0def, ee15719e92f440525af856adae3031c3445a3729
+Mouse Trap (USA).zip, Mouse Trap, 3157, 5BF3576C, 18affebe6b3646ee3ed22c71f1f9ca3a, db3362536a7a9d2b35108153060efffe527bfba3
+Mr. Do! (USA).zip, Mr, 5706, F3F08EC6, 8c31e424ae5dd5625e8763f85c234a52, 5308f4cefdd530cb58693f96eced53f2756ef351
+Mr. Do!'s Castle (USA).zip, Mr, 5367, B56D47CE, fd5cdc0c9c3c386609036cdcbd2dd532, 9676a77f3f943b13d74fc7fd609dfa56096b6595
+Mr. Postman (USA).zip, Mr, 3268, 4B28977C, 419b1411f6bf05a30e6a73b6d3856a2a, 033006f25b2d882847074bf6ea71391a7d326973
+Ms. Pac-Man (USA).zip, Ms, 5536, 29FBF60D, de76097d7921f448f9c737ca11742620, 4ced1812bfec1021d24163a5d61ac7fd0040efb7
+Music Machine, The (USA).zip, Music Machine, The, 2572, D9FFA1E4, 9b2d2b0fd7f7a794ccd168514626a770, bae06e1abe3ec9f1803749d13d818324cd3d061e
+My Golf (Europe).zip, My Golf, 5549, D2B70D92, 49ed680ebf9decf9b9fcb099f14d3bde, 3e31dd5288696235ddac519c5d1c449e4cd0345c
+Mysterious Thief, A (USA) (Proto).zip, Mysterious Thief, A, 3230, 9C54415C, 90136961fb2d639b26e91c822dd10a21, 1e89ac96710739114baf2520913935c7d2d36e40
+Name This Game (USA).zip, Name This Game, 3215, B3977B9D, 7ce4bf540b148ed04f912c617b77e2aa, 85f8f7b7e0200a43907eae138bda30efc8d880ba
+Night Driver (USA).zip, Night Driver, 1853, F0F32381, 69eb55c637eecc523875d4c4a182c610, e3eeb749a0c45a539ba222c6c31dcc5046d103af
+No Escape! (USA).zip, No Escape!, 3430, 9848730F, 2c1fb12c44316dbc403cd7d86becdac8, 6f352f5ff97a2738245eea91320ced990bf31ab4
+Nuts (USA).zip, Nuts, 2453, FB59F458, 9de4340afd55352d5630682313476fe5, c513cdf7f250887775eb4343901fd37a8da47d67
+Obelix (USA).zip, Obelix, 5118, 487925FB, f43362799fc3b97c1c2f15d1a78dd04b, cbff9fc11939f671766aa9a0019ec3c3f448b11c
+Off Your Rocker (USA) (Proto).zip, Off Your Rocker, 3044, 2221423F, ad7f2b654bb3fd8088f112ede0d4839f, a5032554254eacd709970ec51a45791e05883ccb
+Off the Wall (USA).zip, Off the Wall, 7844, 3307B919, 94e67b556ba3f46a180a348126765a4b, 7edaadc76be429e39bc984175602a9d998e47814
+Official Frogger, The (USA).zip, Official Frogger, The, 4771, 75AE52F1, 5e01abb364bf7806fba6804a63bf637c, c5c59106969be5ac24f408536cb2138e116ff7ff
+Oink! (USA).zip, Oink!, 3543, 48F4E8EF, 45f79b55c8eb9e70ec884f3c7de7efcb, 03165a9393c8f22bdc6b8c06ba16c031c149d71e
+Omega Race (USA).zip, Omega Race, 6204, DBBD5284, bcde7b7d59c262c30a355520579d4a22, acfb283b3bd1c5d2bda4518f380484d3b007a107
+Open Sesame (Europe) (Bit Corporation).zip, Open Sesame, 3219, 82FEC966, 45a823bacddcb4bf8725e973661ea207, 8570b40c3ab4464154f697256eba8cf628c75b13
+Oscar's Trash Race (USA).zip, Oscar's Trash Race, 6301, 48BB898D, 787fe58b1a368d54550ffd08b8c153e1, f4c836c61301346a34a023ede32a1d1887fa5f83
+Othello (USA).zip, Othello, 1897, E32E16C9, 13f6996aade4ae5c62611bf41d189b69, 2891afc10d14a4b9217e03ebc0bf2122fa024ce5
+Out of Control (USA).zip, Out of Control, 3364, 6B9D38EF, f78628f98966e5a2542f035b93202592, b4ff1158e3d51a9bef013dcaf7213e68ffa66e8c
+Outlaw ~ Gunslinger (USA).zip, Outlaw ~ Gunslinger, 1799, 3260BF21, 5d5bdf684140df68d09de1ac5ad6226f, f9723660b0059ea9cd0a34e36eaa3283c74b9b3b
+Pac-Man (USA).zip, Pac-Man, 3301, 7CEC15BD, a0a00f3d4cf96379c8ca94e9667d0551, b96c5daac9699a93c84c0718531cb4bbd082ae82
+Panda Chase (Europe).zip, Panda Chase, 2991, A78974C6, 477cb6c5fb467449e22013c49595bc14, 40bd637aa95fc560539ce5b55416621100edb1e2
+Parachute (Europe).zip, Parachute, 3257, E6C25177, a412f00208eccd7c66c2eacf9925576c, 10253245390af448cae423c9f04bf1a9d000493b
+Party Mix - Bop a Buggy, Tug of War, Wizard's Keep, Down on the Line, Handcar (USA).zip, Party Mix - Bop a Buggy, Tug of War, Wizard's Keep, Down on the Line, Handcar, 12116, 89A2BB96, 2cedf7bae46c39292757d79bb08bb614, 384afc470daadee0ee0b9d61636609e3d2603972
+Peek-A-Boo (USA) (Proto).zip, Peek-A-Boo, 2434, 357E90F8, f2b7995579db5ed22705001fff8c711c, f1258595c8e97bd339056b27872c10ce300e7f1a
+Pengo (USA).zip, Pengo, 5881, E4BE083A, 9593db979660cca49a2ca66ca8cbc8b8, 6ae678715462e45d0176dd16986654bf64f39113
+Pete Rose Baseball (USA).zip, Pete Rose Baseball, 10281, D202D647, 7f3e9348774e746d1ea8fc0aba92d945, 611106bc41ae1ba1ddc5f947403531847126508b
+Phantom UFO (USA).zip, Phantom UFO, 3210, 48C61226, 26a83af03ebf81ed9196a602208318b6, 1dcff236d1a6b75da889633c3c90e472bb12421d
+Pharaoh's Curse (USA).zip, Pharaoh's Curse, 2813, E3FFC880, 19d892ace6c15978b0761fd4b5b8af64, 086facc9fe23c2a3d7b8e44f6a1189ffe4a0d957
+Phaser Patrol (USA).zip, Phaser Patrol, 5237, 28C97164, edabb43dcc75885b2eb0faccbbdfb81e, 9c7a1264def9270afc54ff4e230542b937db16f9
+Phoenix (USA).zip, Phoenix, 5735, 40DFBAA7, ac825608e5410375defb375da3e3a862, 8ce1ba3a5b7cf27ab085dc234f0fe737a52223a5
+Pick 'n' Pile (Europe).zip, Pick 'n' Pile, 6662, DD2A8034, a143bb0e8b3bea2f6ada6d20314960fa, 5ed3e6f72cc96d42162fbf816ce2cae12d31dcd7
+Pick Up (USA) (Proto).zip, Pick Up, 3403, E68A7914, 9463f1dafb75366b001eec1ca623ee45, b0be061eea5242f78ead011f0bf3ac6317c741d4
+Picnic (USA).zip, Picnic, 3025, 3A21E9CB, 416dc890c151fdcd918cfbbece6838a6, fd65db0b8d798c0b30a0ab066036c9b62389adbf
+Piece o' Cake (USA).zip, Piece o' Cake, 3072, C97B210B, cf157c9f8c7c980b07680fd55bf891f2, 2744d96da0afad27c3a9d30bd77d86ba2c1b3dce
+Pigs in Space - Starring Miss Piggy (USA).zip, Pigs in Space - Starring Miss Piggy, 6299, 91BB25B5, b7f2412c27690c65e73504a68159b39d, 23885f549f72f6e778437619789387a800103273
+Pitfall II - Lost Caverns (USA).zip, Pitfall II - Lost Caverns, 6684, 06F0401F, 6374fa32e5ea6b72bfe309a435c247fb, cf1b6db2114f3e4e1a874bfe7281ca5f8dadc9c0
+Pitfall! - Pitfall Harry's Jungle Adventure (USA).zip, Pitfall! - Pitfall Harry's Jungle Adventure, 3231, 3584C8CB, e07cbac68d5b194da806416f37d777bb, 56661644fd2ddf9b30a9095e76f513502973d0f6
+Pizza Chef (USA) (Proto).zip, Pizza Chef, 3296, 6A4C2A03, 493300add920b3d3a2ae3c87160c58b3, a753acf74f1ca11fcc199f3fa90f2bc5f4808967
+Planet Patrol (USA).zip, Planet Patrol, 3084, 999DE6D3, 9a86f89cbccbf8ca37001c1a648fad16, 89d2323a53f78136613760cb827bea3cbea6e58d
+Planet of the Apes (USA) (Proto).zip, Planet of the Apes, 3061, 90FB57CB, 15feb551dcad2f251e04fabe34d366e3, 2bdb3a919b95c16b3209caa9ed502d2a559727a6
+Plaque Attack (USA).zip, Plaque Attack, 3162, 106406D2, 06b5f67d4debce69f232efab3c8861d4, 7d36ab6c413226c1aece2a83bd2b0e86aaf9cfcf
+Pleiades (USA) (Proto).zip, Pleiades, 5592, C5B0168A, 2ba1da656278bde90d17ec295c63a632, f1712da12594348c37cd48b3b75d2ebc8f9ae174
+Polaris (USA).zip, Polaris, 5591, 63E48678, 0730a8773d85800cc97002f2aa429088, e31173f7a01ebf7ca43ecb01e2c897cf7a1abfe5
+Pole Position (USA).zip, Pole Position, 5530, B20018DE, 8d6056b862d4d188a15e165169d2e8fa, b97cd66df040313845abe3a31bffb3766e478c8e
+Polo (USA) (Proto).zip, Polo, 1923, EB4D63C5, 45f7e57d46ff56819743b5cc5782590a, 8c4a7fdd5f19e54a7c421cb602d961b30748739b
+Pompeii (USA) (Proto).zip, Pompeii, 2496, 41DA2565, 8a28b549f5a67b5a40d15e76e0e944c2, 014ef04d8383502c728ce885099f6b6404cf1001
+Pooyan (USA).zip, Pooyan, 3507, D88B3F05, 9b30ebb842e5a5673f21d28e8867de7b, dff6801fcb0209cb02db21d091c407ead52bd122
+Popeye (USA).zip, Popeye, 5256, 2F1C6FB1, c8884c3bd9d178253774471dc788445b, 835daa46b654f74278666b6acd4b103fdff3f392
+Porky's (USA).zip, Porky's, 6313, 9CEF5242, 09576711c29ddbb04d2f6fafb0bc99f5, 329261527f851a2f1a4542525386981f6255edde
+Power Lords (USA) (Proto).zip, Power Lords, 5675, DEBE05A8, b4a968f237ea93d0c7876f5ea5b1cbda, 5a4a39c4e70824eb6cb0b1b0439c26837559d5b9
+Pressure Cooker (USA).zip, Pressure Cooker, 5097, A4607E3D, e3ddd9831bb8cb646acd61ee179e1a99, c8676b9d9e4f9e68b35b7aad1a284ad9f24d0e5d
+Private Eye (USA).zip, Private Eye, 5977, 5CEA2183, fea0f2dbeed16d7fb492c322c752a4a9, e9bde2f65753c281980140f107456dde6acd2ef1
+Pursuit of the Pink Panther (USA) (Proto).zip, Pursuit of the Pink Panther, 6281, E54D5C2E, 73eb9bf2fe5ae0d2849086b07bcb5d26, b5699e74e5b061c844187abf6787e2ded2d95461
+Pygmy (Europe).zip, Pygmy, 2928, 01DD6090, d00a305240cf064755dcdb87c075e7ee, 9c7615f2ba5932672203d15bead2502e02b019cd
+Q-bert (USA).zip, Q-bert, 3188, 920584B4, e2d3c3dd2bccf0de182057908ff5da0b, 96beca698b404f13692aac01aa51cb4410413aa9
+Q-bert's Qubes (USA).zip, Q-bert's Qubes, 5216, FFBC1861, f21c1287933b18cab3be3b1985025f13, 7824c9e82ecafe4e66805bc56d9f438be71293b3
+Quadrun (USA).zip, Quadrun, 4631, AD7E22CF, 358cd08f0c7dcd68078c82d94f9147dd, 188de12cb2f1474d75c13a8199b8264218c236f3
+Quest for Quintana Roo (USA).zip, Quest for Quintana Roo, 5462, 9A3801E4, bf2119fe928ea78a6053fb3fef9eb898, 2e562ca36df4d267d6d23fec638903aefb70e61b
+Quick Step! (USA).zip, Quick Step!, 2874, E4A568DC, 420b79b5d919020b123019a041519249, 812af9574b61823ff1ac01892845d5b3c9783e79
+Rabbit Transit (USA).zip, Rabbit Transit, 4656, B5983FD6, a2fa39d815b41b03a69e36058750fa31, e6ec5192c6b89dcb2510a511511bf8ff3dc30ac1
+Racer (USA) (Proto).zip, Racer, 2856, 0507281A, 4708222d50e04007e9b4eef061e6165d, 4824f910704a1c7e620b6d12c56fc44562981111
+Racing Car (USA).zip, Racing Car, 3044, 6AE1AD84, 1d8e3d2c5cb8a1322dceb7926221ec31, 114603c0927563fd1a057ae274da7bfdb85e7599
+Racquetball (USA).zip, Racquetball, 2675, CED31F30, 03628a3fbebdc9d7fef6a4e757507fd1, 86f473dd08282056936bcff085567d4d3d19faa8
+Radar (USA).zip, Radar, 2847, 7E83FD66, 01593039d2a8f4fe38ab65c3a183a63c, dc80ab140b2287a08c18678c5bb210c62521627d
+Radar Lock (USA).zip, Radar Lock, 10948, 5910A0B0, d5f5676286890359f3dfa02e3dab6840, 722c4eb37b5ab38fb85e325134978f60616d2581
+Raft Rider (USA).zip, Raft Rider, 2567, BB25F34F, be9cf0f0bad1358aeb398255afd1c681, 9dc4c7ccb53bcd093cd2f477d96a94f623dd60be
+Raiders of the Lost Ark (USA).zip, Raiders of the Lost Ark, 6549, ABD8236B, 2d0bd3daa9c348992bbd3fa368dd23ba, db1ff2ead0bdaff375e816d3aebe553375a11846
+Ram It (USA).zip, Ram It, 3300, B460207B, 6c05d9e4a0d51086d07e450b5f00222e, 24d589adccd1fca6c5de5d1219b1a5f25da22fa1
+Rampage! (USA).zip, Rampage!, 12211, E2F8FCF9, fcec4bd345a55e17bb42771310a17616, 8cbb4273e608384a46de60acee730d2d2f49d095
+Raumpatrouille (USA).zip, Raumpatrouille, 3164, F9E10524, abdb433946dd7e4c2448e5f2030f66a1, 572f2e78da7972b0ddfb46424a74a638a65a4084
+Reactor (USA).zip, Reactor, 3326, C225BA42, 29eec6fa75ee6c053a219899be2cfd38, 67578c817a486782e011fbb34d8b4adb454f118b
+RealSports Baseball (USA).zip, RealSports Baseball, 6103, 384D13BD, 0bc14c8e0092ef11df43f1a40325f178, 909f61e64692c345587fc9aa2b73355c4baf2833
+RealSports Basketball (Europe) (Proto).zip, RealSports Basketball, 4328, 3C0742AF, 53e199da05815d7c3be1cb2034aab082, 53d57151e4b13bcd0207dbc345c26bf9ba9b06b0
+RealSports Boxing (USA).zip, RealSports Boxing, 5873, C65E9953, c3a3670c5a74e8922f603f17e901eb5f, 34a639d3de167669094547299b12bed186474eab
+RealSports Football (USA).zip, RealSports Football, 5798, 2FF94AE1, baf367db7a6160e0224de04988cde12c, 345091c4197ab2e3a47c13cfdc34bc0bc83130cf
+RealSports Soccer (USA).zip, RealSports Soccer, 4225, 01B6FD7D, 7559f9b6e28bb3de8e7eb3438e2ced44, 4d67aa01b01e586d71dcb3994702e1503d9f003e
+RealSports Tennis (USA).zip, RealSports Tennis, 5012, 07D5578E, 5afad8a7cdab5cf5ac2b62d79fcad8b7, 537ca4d4fe62b972ebea2fbde9f867092cdbbace
+RealSports Volleyball (USA).zip, RealSports Volleyball, 3138, 206BF50F, 46f7410ed75cbd9a69d3fff1098c131d, 71f9e2ebbe8a84f0619bf3c3442d33be763514d4
+Red Sea Crossing (USA).zip, Red Sea Crossing, 3018, 699AE778, 14b2f381b572a1d13ae8092abd7ea14b, 7bc8b8b389b7525d59badab84bb99c19f76aadd2
+Rescue Terra I (USA).zip, Rescue Terra I, 3390, ED750F44, 933b93768298096bb18dcd726fc64637, e50457f4142c87c5774ed0a085d0a48aa136c737
+Revenge of the Beefsteak Tomatoes (USA).zip, Revenge of the Beefsteak Tomatoes, 3042, AF2DFA3D, 70daa75f415efa39c9000f4f8c0a27ad, ea9683fa7e852fb34d71e0989ce29f52556b6436
+Riddle of the Sphinx (USA).zip, Riddle of the Sphinx, 3416, ECF4356F, 5a50ae255596a08363d689d02e3e3d65, a3cf84a087e36f3f2e0ddc1d3631d954776dfa65
+River Patrol (USA).zip, River Patrol, 4465, 95244FDD, 9f75085be73db95dd0ae2f4c018c258b, 8e66c10c01ffda298673ea499fb3d4f2305e7ad3
+River Raid (USA).zip, River Raid, 3252, 04CFCD06, ca8e11a7043eb60965d83c9dc63e6637, 04370a16c48d8551e4d24bd445d612b2337e1d98
+River Raid II (USA).zip, River Raid II, 7639, C912D670, 295482c3afdb8e17524874131a3e91b5, b14896637cf506c9539158aceea7cc5c57e804b4
+Road Runner (USA).zip, Road Runner, 8988, EE2EAB66, 82a56625d1babbf1e7319d2c06a1fa53, 773783367f4bfd99f7f29c742f842e6f128fbb18
+Robin Hood (USA).zip, Robin Hood, 5109, 7DA4898E, 5a5579c3e497437899df154c8475afed, d07510f8524f6aabbeb1a93f7c9b02c1ec07055f
+Robot Tank (USA).zip, Robot Tank, 5442, 7578489A, 081abb092b633b566b61352d88604d5d, 452cc3c54e811bb9fbb9350842eec12f6b4d2dec
+Roc 'n Rope (USA).zip, Roc 'n Rope, 5658, 0F943BBA, f660f1dd3db23a05ed19679ba2e55e32, 51866723ae243422c4daa95208ae29b53fd754ec
+Rocky & Bullwinkle (USA) (Proto).zip, Rocky & Bullwinkle, 3303, 08EC81D1, 1523de37925d235179c01293e514c714, 320f6c93a59d8d1c197e0181ea32aa70617a29a7
+Room of Doom (USA).zip, Room of Doom, 3180, 051B4300, 970ed41f61a82f4a863fcbf3d9546c6d, 50b63dd4ebbce36715a99d2268d2477947ac0232
+Rubik's Cube (USA).zip, Rubik's Cube, 3174, 38207D54, b679af37d28383c770d61c39325fc944, a8925144573fcefd6758cb2406f68cfb4e86ff3b
+Rubik's Cube 3-D (USA) (Proto).zip, Rubik's Cube 3-D, 3290, 028B1B1E, d9753b22f5f3f9ba827f33653154977a, cf966019eb49deb0b07df9a8c74dade297b5a4b6
+Rush Hour (USA) (Proto).zip, Rush Hour, 3092, AF3C6C63, aa0c523f6a5b9f55c5a7f9fb8e1a63a3, 7e0d99a14c418dee050961c965a544bf50a7b873
+S.A.C. Alert (USA) (Proto).zip, S, 3123, 6ED0897D, d10a571e0e520a6cff0661a52f8634df, a43af468fbc0b5b30b367852b9e724a2a72fe830
+SCRMNN (USA) (Proto).zip, SCRMNN, 1821, 55A60CB3, 0107bbd4f48cddae208d49a6bfa160e3, f2b6385c1709dc8deb917670d150b0c23feb7e06
+Saboteur (USA) (Proto).zip, Saboteur, 5724, BCDC3E44, c8a1eeb8d8cd9a6383cc803044d95d95, e2df49830c1e24880c25412bc02cda28289e2bdd
+Save Mary! (USA) (Proto).zip, Save Mary!, 7149, D227518D, 3db74a36d00e0bf909d88b3aadccf043, 7c6db80353e0b6b24a9b979199c4584337afaa55
+Save our Ship (USA).zip, Save our Ship, 3119, 99637E2A, 712a7c862667f27dd311604b7bcf8157, b1df2b034367a122da098855393c56f19092bda3
+Save the Whales (USA) (Proto).zip, Save the Whales, 2404, 7987D1F7, 8c4161cd8a5d74175609ed3e35450a21, 0d7cf831241a41e4ffea266c38c494f1ee9d9d4b
+Sea Battle (USA).zip, Sea Battle, 2810, 2F2C0922, 4467f8ff5d21f3e2053d06e5b7db73b4, db20fe80cda2ab530ee8b913e0dca14985c07e27
+Sea Hawk (USA).zip, Sea Hawk, 2927, FB61FAC6, afad89b4b07bd1c1c90081640f853412, ea62fb28c2993035c10e12db2eee0099171ea0b6
+Sea Hunt ~ Scuba Diver (USA).zip, Sea Hunt ~ Scuba Diver, 3251, 6C6F15EC, 61735b2ecd3a5f39cde8963f909c1f75, 17d83a88441f3927b10f556db71e105c4d6bca11
+Sea Monster (USA).zip, Sea Monster, 3371, B4CFEA91, 77eeda947424b98fa012a8ca3e5f921a, 7cc8a7ff329854a30d897d15d135ebadb1ae5d86
+Seaquest (USA).zip, Seaquest, 3258, 09210F74, 60ee6ad1836be310320db2e993d316d8, c9bc43bb59ad317e5ee857af372a7ccbfeed2e7e
+Secret Agent (USA) (Proto).zip, Secret Agent, 3225, 5DC06A7F, 2097b40e409ef0bdc873c56a9badc9b4, a5533e741010d08b14be8f1b6adb1c5b1cd53808
+Secret Quest (USA).zip, Secret Quest, 9644, 51A18F85, f9b44200458c55ab7e0eedb21caef88a, c2875e1b86967b03974016db9dcf1e026706f5f4
+See Saw (Europe).zip, See Saw, 2604, 717F427D, dabf73ef2a071d3a12cd9af540967d97, 66dfabc56b853926088e5dd846083818d12ad4a9
+Sentinel (USA).zip, Sentinel, 8460, AE2F2CE4, c2ab9b4a207afcb457e2434ea9467b68, 7344bd862d476f86370072a05aafef7dce12b6e3
+Shootin' Gallery (USA).zip, Shootin' Gallery, 3114, A3D467B1, 12c0245b500e323ea88df5145ab243a4, 14a375b260cbd1888dc5e5d4c6704c5bbe7af3a8
+Shooting Arcade (USA) (Proto).zip, Shooting Arcade, 7934, 33E77C4F, 4212cc88d635eae2c1426142a04f200f, 2523ef005c755e9fb5f99693ba6511371b2e1425
+Shuttle Orbiter (USA).zip, Shuttle Orbiter, 3095, 20AE5227, 1da2f22d6e37ec7853b6e6bc7a8ea6cb, a0383d1ed2f47feed86af1458ce71fc78097f864
+Sinistar (USA) (Proto).zip, Sinistar, 4812, 870F1445, c3ee204f6aa0c0646bfe36969a189af9, a4bff5faabaa2f523f344319ae271bcaa5d41eee
+Sir Lancelot (USA).zip, Sir Lancelot, 5229, D06F1690, bdc4d07009433a678259a0cc395a5e16, 9d54092e767245984423214c7b087e967e6d5d11
+Six Pack (USA) (Proto).zip, Six Pack, 4423, B026E294, bf6fed581c7d48f6132bb5c09a1a2dd9, 4d85226f70511d038d34fa769d9442f55b45931d
+Skate Boardin' (USA).zip, Skate Boardin', 5128, A7D91422, 1710cc33c2f8e55717f80898ff95ce61, ac8eb47b198db83e5100d6eac0d874295d828d73
+Skeet Shoot (USA).zip, Skeet Shoot, 1752, 7E6ADFFA, 563d8207a390481a900e3b7b2242bef8, c8485285b9a86e7c453158ee6e9f670905686fe6
+Ski Hunt (Europe).zip, Ski Hunt, 3204, 6BAB02D7, 9e1ba85c5feb0490cd0472eb8a2e698e, ea0f89a5a26cf72fa5159b10a8569b9317d07ab5
+Ski Run (USA).zip, Ski Run, 3260, A5632271, aebf35fdaa878a2046c8fce9850d5000, 551cb7092575dc44ed82e01cf9a845d6b524394f
+Skiing (USA).zip, Skiing, 1990, 702AAE16, 965147a46cdc0dd7f21c6963f10d01a0, abc4b69def233c74a5088f6579f3c1e080a89ce5
+Sky Diver ~ Dare Diver (USA).zip, Sky Diver ~ Dare Diver, 1811, BCA707AF, 9537f4dff425865ba3cdc1f5f60813a9, 44c2fbdceb2268458e64bc3115d384867eb28175
+Sky Jinks (USA).zip, Sky Jinks, 1969, CCD34096, 34ac75bdf8495e3cf6be91c2e510e7c4, 861ba19ff02a68b9f83c1bf283f9d63a1221f8e8
+Sky Patrol (USA) (Proto).zip, Sky Patrol, 6448, BA5BF1F3, 9691b9194eff2c3930f7035bdbad52aa, 7e3e21c6a3d230c590c6164c4bb3a69f3ac9b5bc
+Sky Skipper (USA).zip, Sky Skipper, 3146, FD35501C, 344d16a243eb861724634994c1666d14, d38f940a982f104d0eaf267291a9698375c918e4
+Slot Machine ~ Slots (USA).zip, Slot Machine ~ Slots, 1688, 21077CDA, 1eb4bee6695fdf055c623716b3ecb60a, eb92b9414f239aef4c3fc9c9b6a79b03b7182bc5
+Slot Racers ~ Maze (USA).zip, Slot Racers ~ Maze, 1748, 26545859, 1899e6637a2f48407ce023e0b5959fd6, 76aa2b8531efe4b85e54349cc93c4a6bd945d009
+Smurf - Rescue in Gargamel's Castle (USA).zip, Smurf - Rescue in Gargamel's Castle, 5576, C4B63AFC, 634daf711e1e3bff4f2f51e1ef0d2cfa, a7c25ec39ebcc0b1f66e91a6ebe336afbb43769d
+Smurfs Save the Day (USA).zip, Smurfs Save the Day, 5989, A9F0CE94, b5d007813ad6a36d9dec02cbc54bec45, c769308df08f8f08f4043227e7b720ecd7b9235b
+Sneak 'n Peek (USA).zip, Sneak 'n Peek, 3336, CA8A2264, 937ed7f62b5ca6d56c5453e1a7d8b09a, d5c0dd2f696a3dee6f97d94dd5737ce46cf4aa54
+Snoopy and the Red Baron (USA).zip, Snoopy and the Red Baron, 6385, D27981E7, b9a04d5efa598339c4cb7d0030f31cf0, 31fa0614de581be26fd24b076e42c38ce08e2a3f
+Snow White and the Seven Dwarfs (USA) (Proto).zip, Snow White and the Seven Dwarfs, 4660, 591CF875, 94c941cd9f72fc06d9accd3953bf2add, c54bb6ede77819143e5f5e387e45a890a9afd7a9
+Solar Fox (USA).zip, Solar Fox, 5150, CF91213E, 5826bcdf7d65fa440dd0a46a38f43806, 552b5b94981d1a71b9738aa6747bf188130914c6
+Solar Storm (USA).zip, Solar Storm, 3245, 7E418E1D, 193e1d3ec7eb4385a6cb14a3c174d69f, fba4dd2e03e5dc2c4cd393e905f75acc40d6afed
+Solaris (USA).zip, Solaris, 12920, 3477D3FA, 6902091366553c6be2d321154f384a4d, 6a610c3833c1bbbfeb3709e8a2ae66c320d91949
+Sorcerer (USA).zip, Sorcerer, 2868, CA080FAC, 69d9e5b426c74d53559a8259cd878931, f0dfebac9f20f480af74cbaec4474f675fd294e5
+Sorcerer's Apprentice (USA).zip, Sorcerer's Apprentice, 5577, 6D677131, 8734882fc1928fe663ee7b6fb30076b4, 70fe4a8680197df7961dea7ab285dfa7b522d5e3
+Space Attack (USA).zip, Space Attack, 3121, 9EBBF335, ba8311b792cb6bfec31ad1679ad1d4e0, 1e6cc41bd7de72371c31d64015b530b4604f8db2
+Space Cavern (USA).zip, Space Cavern, 2941, 0EE1D531, f91e1cd4926d6b08db5c4cd2942dca85, e503f7ff81470d68f6f198a2a98ff2e8d95d7230
+Space Invaders (USA).zip, Space Invaders, 3421, 0215814C, 31335ded565788f45b316a9f3c429973, 0d6d366f6f4934c4052421e0e53ce684dae5ae1a
+Space Jockey (USA).zip, Space Jockey, 1922, 7264AE37, 245d007904997c3f41013f1851e976cd, 2dce1abc2bf8a270289c03bd03fa1493e9529a1d
+Space Shuttle - A Journey into Space (USA).zip, Space Shuttle - A Journey into Space, 6483, BF2AB164, 5bce556491f8825fec558d75bd2bf889, 58f7bb8ff8df4296d12aeb201861083564f612d7
+Space Tunnel (USA).zip, Space Tunnel, 2996, BF85CC14, 7cb3810fb25a3820477772dfb2995241, fc19bd999bc7485ce05f502d5659cf86b27f13a2
+Space War ~ Space Combat (USA).zip, Space War ~ Space Combat, 1846, C8B96BB7, 7515f8958a3c694aa614d9f649b967dd, c521faff21e0ba69e6551dc513728ee266e00446
+SpaceMaster X-7 (USA).zip, SpaceMaster X-7, 2896, F22B4993, 57236826e90c7353a9e3b3e4af683795, f531b481bb2044c83693cc3c430e95ba1ffada3f
+Spacechase (USA).zip, Spacechase, 3091, 563BC83C, 585dd06a577a7454b2fa2d88840a0d83, d0904528977645741d00da894130a9d1fa00e337
+Spider Fighter (USA).zip, Spider Fighter, 3323, 56F7A65F, 77eb92989435e72536ccb0ee14d82c2a, b350e835287c1e1359d48f0d54c53e0aca21ffee
+Spider Maze (USA).zip, Spider Maze, 2938, 34556F31, f9eb8858e883ea3b6cb9cfb830b12592, 22f5126da8683d5b0d78168092c9c501c261eaed
+Spider-Man (USA).zip, Spider-Man, 3327, 008784E2, 0b7e2ab245b5d4a2ccbe4acbd2d8874d, e74c485dd6dd1fa65a0c100df3cc42e9999c9cf2
+Spike's Peak (USA).zip, Spike's Peak, 5443, 94C2B157, 1c915176a4a5913c2c49ec74aa9f2195, 42a3640ceb8f7929cb48cfcc696460f186a49f02
+Spinning Fireball (USA) (Proto).zip, Spinning Fireball, 3203, 36BA22AD, 9bd67833ff4dcc00b4274a5f11d8da1b, e1cc3a1d521227c2c589ec36d077088ace9a4ac2
+Spitfire Attack (USA).zip, Spitfire Attack, 2609, E41EA270, fcbc975dece195d3c3819632c699b6e9, d3bf16c4064029f947ebd4ff954d7eeefee0fe57
+Springer (USA).zip, Springer, 6027, 4A56536F, 36fd38794dbaba09d9a4cbfce7e52c7c, d6267215f7e9e9bdcf1d62ecc73bbbdb324f4384
+Sprint Master (USA).zip, Sprint Master, 7794, 4551F5EC, 0b361a5592257f9b2e9bbcb6913adf82, f85f004e1c4e6d51d4109e9a7c5b44ab2bdd41bf
+Spy Hunter (USA).zip, Spy Hunter, 5855, 7D450A36, f038f11efe589ce1d67b74698dde7e8e, 5213d6c80a0c238e182cc1f8485a19f753a69bc5
+Squeeze Box (USA).zip, Squeeze Box, 3066, 1DE98BE3, 3565db37759c0b7eba676bdd8b5d7574, 5124f0e5d0157ea52b608ff3fc810d9bad2740dc
+Squirrel ~ O Esquilo (USA).zip, Squirrel ~ O Esquilo, 3221, F6808AF3, 8f6bfd9b8acc4b52f36b6ea59bc5ef06, 1c95b097ba8c7cabec818601a012acf166cad2b7
+Squoosh (USA) (Proto).zip, Squoosh, 2344, 0B37710C, 765393201c6289b8079e4b6265095269, 644d8b7a84160784a954c1c4a6d59e7468c33035
+Sssnake (USA).zip, Sssnake, 2906, FC216A1D, 9229788e6f6f295b2fe8c9e3ada91feb, f516cb246b04effcaef70c0f5e5e6baf97116e9e
+Stampede (USA).zip, Stampede, 1916, 39B9812B, 8f96d223b20656f565e232fd6d8622c1, b6f453c040e14475d08da23f7f1ab174469b0ee8
+Star Fox (USA).zip, Star Fox, 3036, 2539D6B5, d245257080c1e0fd27bf701f7e6334dc, 751de0d3f6d8c7ca070a1d4dba6011ff69cd1468
+Star Raiders (USA).zip, Star Raiders, 4561, 4C6476C1, 4325cff2454f095ed7f5fcb04d994304, 6e5febb06ffde59e27673f22d1ca93a29f2d81f0
+Star Ship ~ Outer Space (USA).zip, Star Ship ~ Outer Space, 1982, DECDF99B, 04447ef1c0ac5381c632c7f0c2ac8467, 0e9305698eb593616ad0cdd6387bfc47d6decc95
+Star Strike (USA).zip, Star Strike, 3225, 610DB083, c1d98e03d424adb35fb9a010ac0dfffd, bedacaf83052ea934a264917ed58b994ff2fa4ec
+Star Trek - Strategic Operations Simulator (USA).zip, Star Trek - Strategic Operations Simulator, 6480, C66FD7D9, 7f08f556782190499c41d5947f250639, de6abaf581c4151a9105589411e013948ba03f44
+Star Voyager (USA).zip, Star Voyager, 3428, E5725425, 0b2126b140712db39fbb57ae9c95a37a, 2c0ae0959a0526e94fb9dc9c15c1175fb073f274
+Star Wars - Jedi Arena (USA).zip, Star Wars - Jedi Arena, 3237, 75D15077, 20bfe6c5c340ceb473298623b2b113e5, 700602199919e681401a522cb78534af4d291983
+Star Wars - Return of the Jedi - Death Star Battle (USA).zip, Star Wars - Return of the Jedi - Death Star Battle, 6441, 08712F6D, 874d3750992cab45b5b347ed5b5a10c7, 9747b8397eba4160f8e8526186e762855cfef2a1
+Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto).zip, Star Wars - Return of the Jedi - Ewok Adventure, 5953, C0DA2A40, 6bb39ad8cdcdd4a445f033364b2888e1, c6a1153a87e3ca92be26bdfdd990bc4f9a43822f
+Star Wars - The Arcade Game (USA).zip, Star Wars - The Arcade Game, 5767, 89F34688, 62ba465da3d8e08061de4b7b6982e03f, df7b38233a76d38bb0fad8aa0a5cc2d680546ec0
+Star Wars - The Empire Strikes Back (USA).zip, Star Wars - The Empire Strikes Back, 3524, 262C135C, 5a101611c0c005ec1acab22fbb1e5d6e, d57e2e76a804eb023b13994ffb8efe8788dc65a6
+StarMaster (USA).zip, StarMaster, 3313, 163DF93F, 3991a7e4a7d7044d94378ad15b3c8bd2, 4bdd7bba25403ffcf8f0b423a942b316fcdfa1fd
+Stargate (USA).zip, Stargate, 5627, 66C49816, 108cae0d06169cb3cb38709dc6128bbc, a7806fead9d126d97ca070013b7efbe10707407e
+Stargunner (USA).zip, Stargunner, 3065, EEC27827, dd73c3e0dd6452fb620a27ca28d2458f, 6934b98873ca7c786054437b9020526fba6bdf3e
+Steeplechase (USA).zip, Steeplechase, 1815, 6C373D8C, cd95728b165e772038438c48bfe9fb65, 1676a2ab93f038ff680389c1b3dc488b3ac8bc50
+Stellar Track (USA).zip, Stellar Track, 3450, CBBADD2F, 3f354030361872578b693193f47c0547, e69a030687e1c3a8f06ae129199bd08a9ba457bb
+Stone Age (USA).zip, Stone Age, 2758, D878B85E, f7a189542fcaf639289907c543404e54, 7628109a41574f2dc0fab197bfa44537c9242090
+Strategy X (USA).zip, Strategy X, 3488, F9254BCE, 51f33c9b1ed82ef80c681637f1a38e3c, 2596b15c3381aa11104abddf9c124edb48cf807b
+Strawberry Shortcake - Musical Match-Ups (USA).zip, Strawberry Shortcake - Musical Match-Ups, 3155, 2B8F358B, 166e6ade44313c261b29ec6cb00fe6ce, a29cbaa9e764416d6cb13b9d165f0745f07b9b30
+Street Racer ~ Speedway II (USA).zip, Street Racer ~ Speedway II, 1857, D9944D17, f0c1262084adac53eb7387c339216cd1, a9201cced19ace6660f0aae3d6be2a13eeacc39f
+Stronghold (USA).zip, Stronghold, 3357, F7014E1A, 2a4f6d8f0424798eb65ab5346eaabd91, de631bd36f1250fe09abb6db6d3d6229b3faa146
+Stunt Cycle (USA) (Proto).zip, Stunt Cycle, 1604, BEADF8E1, c3aec7b7b5768820c86b163f046dc737, 2e6dd6c748fb8d074e24beb51a71e6f75c33b205
+Stunt Man (USA).zip, Stunt Man, 3303, 9578F021, 7c454048b40e421d3eccf5eee1322c31, 262bf6a8b18f091411a8f6a78db39b07382e3a0a
+Sub-Scan (USA).zip, Sub-Scan, 2977, 2108873C, f794ba085cf9a72b6238e5f6d2174718, 4a98c3693df329c931d024111c86a8dd4b812ed4
+Submarine Commander (USA).zip, Submarine Commander, 3307, BDE8A05B, 802f821b4d4539a1a67e466e99c1417c, 59ee75c1eb03ebbe576f013d379dd1c1327fd141
+Subterranea (USA).zip, Subterranea, 6770, 07F94FE9, 013cc9717a1e53e3e3236a0eb89558e9, 3b6132d519a23631c2f873cef0ca4a4ee6070b5c
+Suicide Mission (USA).zip, Suicide Mission, 3978, BA538CA4, f5e9a8fc34900b70bda4b14a3be416a2, 354e295f1482699f1598c758079a25456bd69ead
+Summer Games (USA).zip, Summer Games, 10751, D1650865, 35f3507addc0b8e219b4ef244918c054, 703e8a24492a47546b021eb0402578e8d9414070
+Super Baseball (USA).zip, Super Baseball, 7834, E5AB4C13, 2f7ec7ab67ea9218c4a9e554ff999bbc, 4178c2dab84316d1efa03b73b3be8c0f0ea30782
+Super Breakout (USA).zip, Super Breakout, 2841, 078548DC, 12205a2a717307cd5be5dd62c63b5345, 2a811e563d5a9660e8479c1fdba812073d362266
+Super Challenge Baseball (USA).zip, Super Challenge Baseball, 3489, 1995B9E1, f807972efd516d5afb916b9689431de4, 2bfc9c38723a013d72782d1e4dacd6b468903c7a
+Super Challenge Football (USA).zip, Super Challenge Football, 3430, 1C7E946B, 33343f27415a70b99ccb79d1eaa48839, fab62def4845d454026c3d283d3434e63c4d8f7a
+Super Cobra (USA).zip, Super Cobra, 4663, 861877DD, f2f1438b3c7f431b8bcc72c27e45ffd0, 1977d59d42bf5e07cf76556693df109dffeba069
+Super Football (USA).zip, Super Football, 9679, 2CD552F2, bfaea8550dd8b78b32e2e2d560893e68, ad750b40f073a2ac0083524c8b6580371c5b8f64
+Superman (USA).zip, Superman, 3386, 9D947115, 098e7d0d0eefb5c43dd97a88ee4e80bd, 937e957c97a56f26b17895bbce7c473ad4b9fd31
+Surf's Up (USA) (Proto).zip, Surf's Up, 4741, 82F564D8, 9d865a5f88d3db27fbacdeff846421fa, f434c49b7375f655a8ca338d7627f4e6399fdbb5
+Surfer's Paradise - But Danger Below! (Europe).zip, Surfer's Paradise - But Danger Below!, 3124, 1381099F, 8365ffd072384ff1c9955a8cc831ca7a, 79da0b0fd9e8db0b431157483f945fcf9b713ad3
+Surround ~ Chase (USA).zip, Surround ~ Chase, 1598, 64367313, eda7e6c452c497d2bf7bae7b29a6ff13, 30d330a03c9d964c8b41f03d8d7039483b068303
+Survival Island (USA).zip, Survival Island, 12081, 3FB85EDC, 2de5ab2237fdfc261819dcdc3a01732f, 5a3e6f85ab62973cf0c11e095e0c2d6355dfbed3
+Survival Run (USA).zip, Survival Run, 3249, 3D121E29, d24c3f0faf211d858ffe340a822e02e9, 6f9031a30c4f1586c3ce08ed99a36b422d94af9a
+Sweat! The Decathalon Game (USA).zip, Sweat! The Decathalon Game, 4879, C87119A7, a013350a8dcf4372f3e6a4330d43d6ce, 9c2ea7278c6cbc1245c8ecf3c55a41f9f35d1b90
+Sword of Saros (USA).zip, Sword of Saros, 4884, 58FCB82B, 76949669f8456b2daa295bcfb3823ca1, 8e4b5b3f0a7de34421b2c05f3fe847df7fa01163
+SwordQuest - EarthWorld (USA).zip, SwordQuest - EarthWorld, 5426, 3994445B, 9be648b6072dadf79b0525196ef96005, a4bdff461a23252eb7dec06163997e3503636370
+SwordQuest - FireWorld (USA).zip, SwordQuest - FireWorld, 5638, 87715168, 2833e93f8221d5f96a7d15f575b1e5ec, f4a5a712b2ab28dc5fdca400c275e3072708c059
+SwordQuest - WaterWorld (USA).zip, SwordQuest - WaterWorld, 5242, 83B02D92, 3d70dd21b22d1c71c8fd22fd6e3c4a19, b802995a1c7fe2888e7805d13eae53a6c8d21fd6
+Swordfight (USA).zip, Swordfight, 2877, 082E376D, a4ca7f0ecd015f8e7fae98ef756fffe7, 1920cd6c33e4f596669b53474e159a3ff051f37c
+TRON - Deadly Discs (USA).zip, TRON - Deadly Discs, 3189, 78F9A63B, 2602693eb58a74534e94d4dc6145d374, 5c88b112a143e24a1e1191e3234a88bf4f4c1efd
+Tac-Scan (USA).zip, Tac-Scan, 3439, 2B18DBCD, 03dc0f58f6a5bd0278a1d199fef849a6, 41f38653c16d79fee80bb64faa789e11bc699c7f
+Tanks But no Tanks (USA).zip, Tanks But no Tanks, 2925, D7B480B9, 4a4dd2bea9568f08a9bfe79ba2118467, ae66620ee845c13659732cf862e7547326533b2e
+Tapeworm (USA).zip, Tapeworm, 2957, FA08E5AA, 08a645b98839b9ff5b77a8e232352b8f, da612dd9c482a8ec2c5859c5f399f430bbe2fc7f
+Tapper (USA).zip, Tapper, 6326, EACC735E, 88442ce510682ea57842848c1ff73e25, 11d9a85346d9c9aab0dbe2d0a00b17b184d68bf8
+Tax Avoiders (USA).zip, Tax Avoiders, 4410, D4588686, bd3fb320b080892c595030a8d8c74308, 2dee8cfc660d23c4109482ae085171cab2610835
+Taz (USA).zip, Taz, 4240, 4FB7AF64, 14a8ffa3e418f106732acd0a82308769, fa987958316c2aee29dcd3be9e7b51ed5402ec50
+Telepathy (USA) (Proto).zip, Telepathy, 5733, 6EA47628, 00a3832d59cc773ec618c8617236aa92, 259d281d8bfecd6023f7638c94b7b1e1a92f11c5
+Tempest (USA) (Proto).zip, Tempest, 4518, F8D40316, b0a6067576b37965b33bcad15bd85409, 49f16a898c63550e8762cf7c622f9542bd080434
+Tennis (USA).zip, Tennis, 1857, 6D21EBD2, 539b635ba29a173724e22d65fe6a0a6f, f48dc4043a7728320250c99ce56f4cddd8c03998
+Texas Chainsaw Massacre, The (USA) (Proto).zip, Texas Chainsaw Massacre, The, 3052, FD8F5885, a72ef3ccf164da0b5e12282005ea8041, 9b059416eae2bf1d481d87cf67f12f0248447af2
+Threshold (USA).zip, Threshold, 3236, 4A49FF1D, c06c20894022c56bf965b1badebd68c3, 34430075ca7db5830648a13d630c3bcc8b5c78c4
+Thunderground (USA).zip, Thunderground, 3105, C8F62112, c8782d4c99747ebf97edfcf13d4d83f1, 6dc068fd79cbf71e57159073218f23d64f1f0e3b
+Thwocker (USA) (Proto).zip, Thwocker, 6223, D6EDFF1B, a5bf14a0737888d7483d565357de4905, 2d3e8bfb82d53d00755957a2de4cc7b55dfb6c35
+Time Pilot (USA).zip, Time Pilot, 4787, 1B0E9DCC, 82ce45717ffc106b0d0b7af50b723d46, 1ac17ffde0200807bd9221e7889ccea39fecd7d7
+Time Warp (USA).zip, Time Warp, 3122, 804A8455, e38203fc9ccd43044dcbb749edbf58be, cf22fa7a0203635b50af94cc4a3d1e3cb45027ca
+Title Match Pro Wrestling (USA).zip, Title Match Pro Wrestling, 5910, 75D9174A, b07c5fc3a9d54db0abea870fbd9fc6ab, 56b4a66fa8e8db2a997fa5516429404e4257732f
+Tomarc the Barbarian (USA).zip, Tomarc the Barbarian, 5378, 636F9111, 9a56d3ac062b8d57d126256602f2657d, 203321ad086402b115a92879c6efafc9500d001a
+Tomcat - The F-14 Fighter Simulator (USA).zip, Tomcat - The F-14 Fighter Simulator, 12047, 611D531A, aa1a1d6baf53abf27f06d2b890ca935a, 025ecd98eb59b771a4078b14fc4390bb40807a9a
+Tooth Protectors (USA).zip, Tooth Protectors, 5252, 4F4EBCE8, dd1f6f4184743e4a3f16932e40ce5473, 4a8eb5a025386b6566ded2d3ab84971e8e7d796a
+Towering Inferno (USA).zip, Towering Inferno, 3217, E1526E64, a85f9ec0530d5bb865b22dbf52d57cfb, 0d47a6de428b5345d9f595297b1de971eecd866b
+Track and Field (USA).zip, Track and Field, 11331, E689F281, b2c96dd6916ee6826020f97423c3d8de, 0fd599742b20dec7562010cbf0319461a9aaa310
+Treasure Below (Europe).zip, Treasure Below, 3083, BCC4F387, 433a2b23e719fc7718e9dac6f0827672, 0fdf5b510da2f26d377d696a554ae7a0b6960ce4
+Treasure Island ~ Duck Shoot (Europe).zip, Treasure Island ~ Duck Shoot, 3172, A2E89A43, df697637445e536f47a88700e5b999e8, 2b63315d9169c2a9025897880d0f3d0e2c368dfb
+Trick Shot (USA).zip, Trick Shot, 3135, 342AA89F, 6fd207f4f5ace344a9d4008ebf0eca41, f8043d4009e94b8d17d44f648603fb58df68143b
+Tunnel Runner (USA).zip, Tunnel Runner, 7605, 5E984BC9, 31b1a40ac4b23a2cd1851da457470357, e77543e18c64b1098781a45f6dd930c56feec585
+Tunnel de L'Espace, Le (Europe).zip, Tunnel de L'Espace, Le, 2596, 3E617B0B, b3ae4c7376f877e972e5b70481e97b58, 5c17b318f7be09783bcbeaade14d44544fdf5ead
+Turbo (USA) (Proto).zip, Turbo, 4519, B4DF90DC, 86b9adc994b060a52d44055bd7ae133d, cc7b25b9c76688a3c280e71e5de3218ac14b4e48
+Turmoil (USA).zip, Turmoil, 3135, 84C885C3, a81e635d16475191fc38cb1e2c786a66, 0bcad7d54bb0fe960601ae419d1d90b843a26a87
+Tutankham (USA).zip, Tutankham, 5529, 0CE559AA, cf29fe0883cc5dd0f01abbebcc407f30, fab18172975800c3abb441aeb11fd5447cbaaf9b
+Universal Chaos (USA).zip, Universal Chaos, 3125, 6C975982, a7f4a5d3f3fad23af37bdd4cdb1ce3d2, 175615cf9858fcb8a4364a65fffcc6e5adbc5907
+Up 'n Down (USA).zip, Up 'n Down, 5051, D0E5086F, 6d2f3f37447d2c91c47ea65849799ff6, 2e7a2de410205ec124a62c4a55f099cd3ce8e9c8
+Vanguard (USA).zip, Vanguard, 5901, D02B9039, fa8871d029c835b7255c5c1f9fec638f, 8ee67aab9507b75f40e3d26ab697d1355c86ff0c
+Vault Assault (USA) (Unl).zip, Vault Assault, 2455, C4FD047B, 987e9fc6c099f6b78a7f262b092328fe, 1630fc052fc797cce132a10d265eb590dd6398e4
+Venetian Blinds Demo (USA).zip, Venetian Blinds Demo, 823, F0DEBDFC, c500cc0c2c63af10e29e4a0bf6568347, 079e6b238f1509210231d833454c33a4d928c68e
+Venture (USA).zip, Venture, 3492, A795CDDD, 4fb7f3c55be1467ec6fd98fdfb967557, 066432bdacf0b5e711f26cbe0a0d5981918da3e4
+Video Checkers ~ Checkers (USA).zip, Video Checkers ~ Checkers, 3426, 9F758539, 09f3d4180ffe13714682049f0ac720c8, e0e1e834f2b8f67c6dca6f2436ccf3039c345121
+Video Chess (USA).zip, Video Chess, 3599, C4634643, 62346b1af162aa9eaa7cb47c5c8cb7c7, 9e09227c90002658729a4987085468bf9edcda4f
+Video Jogger (USA).zip, Video Jogger, 2800, 27FEF48D, b14536208e0eb18b3fd801dced0de1a5, 33bbac230eff740db96d3b2b61ebd98ae33392cc
+Video Life (USA).zip, Video Life, 1692, B3B6BF00, 22c1abc373a13381022542550397618f, 1576f4eae3fbc92ef5fc4c2b4ae342e1f490e560
+Video Olympics ~ Pong Sports (USA).zip, Video Olympics ~ Pong Sports, 1931, BD73FF80, 2aef042dde99e6290cd0e49e895850e3, 755f43d2136cb1dafd0f90089e0f795f9178a6e9
+Video Pinball ~ Arcade Pinball (USA).zip, Video Pinball ~ Arcade Pinball, 3387, 43D63C93, 72b0f77c67bee2e2a48760875e5ba480, 40af73e756a8084dcbe44a2be993ee4d5b16abcb
+Video Reflex (USA).zip, Video Reflex, 2639, 4365A51F, 2fb3c454658064dc11172e312f56dd9d, a4d13cfd42e2e9fe0a2eb26779444504b9b5010c
+Vogel Flieh (Europe).zip, Vogel Flieh, 3303, 08180CC7, 380c011842bfddfde8b52cd478293c1b, 9ece5cd92a7a35e3bca17778ad5ca8b95352e75b
+Wabbit (USA).zip, Wabbit, 2848, 331CC108, 4f6076253426a5dedd587a39afb2aec0, fe61d2f0b53c5d8ac970f58a98f9db89489103d9
+Walker ~ Schussel Der Polizistenschreck (Europe).zip, Walker ~ Schussel Der Polizistenschreck, 3142, 518D06B7, 06c66419beb1569cafa8897f2d8e028b, bd577c1dcb94f7bb618d6ae90e61ab2071f765f1
+Wall Ball (USA).zip, Wall Ball, 3071, D57BCE38, a2d2c7703a3a510d7dbc60007258d93a, daa73d1c7b5134178aafdb06c699731d5415ee9f
+Wall-Defender (USA).zip, Wall-Defender, 3322, A8EC5ADE, 72dba304cf4c1804d6b9c23ca907e4fe, da507cff449622afcfba1276166f474610e0b453
+Warlords (USA).zip, Warlords, 2979, 081A3566, dc677dd8dc180ca1c45bf8463a31e3ef, 8ba903fcedf6f2e82638926ab3a8df46919730d6
+Warplock (USA).zip, Warplock, 2807, 74C3A06B, 7a99c957c8778bf6ff466e32bc7d4e08, 06ed20246643c66e326fdebb135e4d6e41bc662e
+Wing War (Europe).zip, Wing War, 6302, 6C1B02AF, 403ac17ae4ce5716f03911ce0c360279, 603ab3c2c6cbda40e083e9aa5f5f5cf8bbb22760
+Wings (USA) (Proto).zip, Wings, 6712, AD953809, 03bded3b19bc60d9c962701e54088b73, df850474b437aca0398f90c50ea69b0ef2f44bd6
+Winter Games (USA).zip, Winter Games, 11689, C2FBBFC8, 15fe344d6ee1b9adee0e14092e1c758c, 06d859920ebc135ec120dec8088c0af6612f0c89
+Wizard (USA) (Proto).zip, Wizard, 1909, 88D1626F, 2d9230cad5125f567f913430ae2d002a, e056609c105ae2a23bc6847d2ac25e3bebc7bdb4
+Wizard of Wor (USA).zip, Wizard of Wor, 3495, 01CF79D5, f156d2336b5b1ceb74770b5839265c68, 8bd342e79c1281237402baf537fd993a640d3710
+Word Zapper (USA).zip, Word Zapper, 3381, C66EBD4B, 536fd99d303ea290d2724b6c2f5ef92b, 56c23685b7412901ddd96a5a534b04aea03b47ee
+Words-Attack (Europe) (Proto).zip, Words-Attack, 2628, 56BB41AE, 51befa8ed17581045318d1a9f070fdaf, d3e163d51993c13fac0c2fc109b1d53f14db9107
+World End (USA).zip, World End, 3267, 361855A4, f117951f4bf29dcb39b34d52f0fc272e, 9a5d4f359db48e9707b17408f27b07b1d3255a84
+Worm War I (USA).zip, Worm War I, 3106, 9A4C152A, e863024a76fab051466907599dec12e9, 9486bce4061edadaa76d1096e84f9dd3f0562cbc
+X-Man (USA).zip, X-Man, 3288, EFDB17D1, 3b0bfec182bdefc84e2944d8e5ec4649, 1f9552d983e0e007c209d4894cc36aca3d524f4f
+Xenophobe (USA).zip, Xenophobe, 10505, F594DBB0, 8c3b326f1c928566d5697eb19df7dd26, 58ef392aef74bacf096712a01d986ccf9351ddc6
+Xevious (USA) (01-18-1984) (Proto).zip, Xevious, 5880, 410EF400, 3bf23ca79137e79f36f2c9d2186e62bc, 47b4808e39833bfdbcacea64c8cb0b847db86d63
+Yars' Revenge (USA).zip, Yars' Revenge, 3379, 31E7173A, ddcf5a7b05b215a0bdce13d8b5616350, 71771a74f1adf63052197716f8163da9d812a44a
+Z-Tack (USA).zip, Z-Tack, 3208, 1E277049, 89e8acee4128e0c5e782b5e43a830c10, 52765406e0ed4bc8f8e35678f3cdcd01dc426ea1
+Zaxxon (USA).zip, Zaxxon, 4354, CBACB88B, 7cdcd07513532cac89dd0d4febc71c36, 59a33ef97654b08cbec38d785b8a6a0d670a5b86
+Zoo Fun (USA).zip, Zoo Fun, 2980, C20C1255, fb8381abbae982b02be6d4f92c926b9c, 688652529b1be819fb113486a92ef6e7167942e4
+Zoo Keeper Sounds (USA) (Proto).zip, Zoo Keeper Sounds, 1180, BD5467F0, bbf43ee880a033fbd5de242bc08a89b5, 7619992116f11a25cef35465feb46363917bdc4d

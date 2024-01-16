@@ -1,0 +1,6 @@
+Nome Completo do Arquivo, Nome do Jogo, Tamanho, CRC, MD5, SHA1
+Bobby is Going Home (USA).zip, Bobby is Going Home, 3217, DF12381D, c61e7d8aec1202352260162b6968bf6b, 43811acaed72bdb04d4b3ddbb924d4c55905e36a
+Bowling (USA).zip, Bowling, 1824, 607BD334, 493a31905de32fdb6738010311db2aba, 82f43b9bdc353ca3ab3997960efdd8e8a32e1f09
+Boxing (USA).zip, Boxing, 1915, 00F9389E, ecb616650e8092ca299e3b208ca5b419, ca01fc257e92bd4c549e526321e502e7a33a9834
+Enduro (USA).zip, Enduro, 3357, 12CB0F04, b27fd8d98e1c038d2debc1c5303c51d4, a61db4140837219c7a0b80a9c9701df4186c378e
+Yars' Revenge (USA).zip, Yars' Revenge, 3379, 31E7173A, ddcf5a7b05b215a0bdce13d8b5616350, 71771a74f1adf63052197716f8163da9d812a44a
